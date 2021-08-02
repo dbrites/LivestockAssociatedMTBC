@@ -1,0 +1,841 @@
+G_NUMBER	DATE_ISOLATION	COUNTRY_ISOLATION	Region	ClonalComplex
+G00130		Unknown	unknown	orygis
+G00208	2007-01-01 00:00:00.000	Ethiopia	Eastern Africa	unk2
+G00229	2009-01-01 00:00:00.000	Ethiopia	Eastern Africa	af2
+G00234	2009-01-01 00:00:00.000	Ethiopia	Eastern Africa	af2
+G00244	2010-01-01 00:00:00.000	Ethiopia	Eastern Africa	af2
+G00370	2007-01-01 00:00:00.000	Ethiopia	Eastern Africa	af2
+G00371	2008-01-01 00:00:00.000	Ethiopia	Eastern Africa	af2
+G00373	2007-01-01 00:00:00.000	Ethiopia	Eastern Africa	unk8
+G00396	1993-12-01 00:00:00.000	Burundi	Eastern Africa	af2
+G01032		Unknown	unknown	unk2
+G01033		United Kingdom	Northern Europe	unk2
+G01034		Unknown	unknown	unk2
+G01035		Unknown	unknown	unk2
+G01036		Unknown	unknown	unk2
+G01037		Unknown	unknown	unk2
+G01038		Unknown	unknown	unk2
+G01039		Unknown	unknown	unk2
+G01040		Unknown	unknown	unk2
+G01041		Unknown	unknown	unk2
+G01224		Australia	Oceania	orygis
+G01225		Australia	Oceania	orygis
+G01226		Australia	Oceania	orygis
+G01227		Australia	Oceania	orygis
+G01551		Unknown	unknown	unk2
+G02538	2005-01-01 00:00:00.000	Switzerland	Western Europe	af1
+G02545	2000-01-01 00:00:00.000	Switzerland	Western Europe	unk2
+G04143	2003-01-01 00:00:00.000	Malawi	Eastern Africa	PZA_sus
+G04145	2005-01-01 00:00:00.000	Malawi	Eastern Africa	PZA_sus
+G04147	1999-01-01 00:00:00.000	Malawi	Eastern Africa	PZA_sus
+G04148		Russia	Eastern Europe	unk3
+G04149		Russia	Eastern Europe	orygis
+G04150		Russia	Eastern Europe	orygis
+G04151		Russia	Eastern Europe	orygis
+G04156	2006-01-01 00:00:00.000	UK	Northern Europe	orygis
+G04157		Russia	Eastern Europe	eu1
+G08466	2013-01-01 00:00:00.000	Ghana	Western Africa	L6
+G08506		Ghana	Western Africa	af1
+G08621		Ghana	Western Africa	af1
+G08645		Ghana	Western Africa	af1
+G08648		Ghana	Western Africa	af1
+G08654		Ghana	Western Africa	af1
+G13058	2011-01-01 00:00:00.000	United Kingdom	Northern Europe	eu1
+G13125		United Kingdom	Northern Europe	eu1
+G13253		Germany	Western Europe	unk4
+G13311		Germany	Western Europe	eu2
+G13329	2006-01-01 00:00:00.000	Germany	Western Europe	unk4
+G13389	2008-01-01 00:00:00.000	Germany	Western Europe	unk4
+G13403	2009-01-01 00:00:00.000	Germany	Western Europe	unk3
+G13622	2007-01-01 00:00:00.000	Germany	Western Europe	unk4
+G13968	2009-01-01 00:00:00.000	Germany	Western Europe	af1
+G14219		United Kingdom	Northern Europe	eu1
+G14221		United Kingdom	Northern Europe	eu1
+G14722		United Kingdom	Northern Europe	orygis
+G15298		United Kingdom	Northern Europe	orygis
+G15359		United Kingdom	Northern Europe	orygis
+G15428		United Kingdom	Northern Europe	orygis
+G15466		United Kingdom	Northern Europe	orygis
+G15488		United Kingdom	Northern Europe	eu1
+G16000	2005-01-01 00:00:00.000	United Kingdom	Northern Europe	eu1
+G16001	2008-01-01 00:00:00.000	United Kingdom	Northern Europe	eu1
+G16092	2005-01-01 00:00:00.000	United Kingdom	Northern Europe	eu1
+G16096	2010-01-01 00:00:00.000	United Kingdom	Northern Europe	eu1
+G22057	2005-01-01 00:00:00.000	UK	Northern Europe	eu1
+G22121	2011-01-01 00:00:00.000	UK	Northern Europe	eu1
+G22232	2002-01-01 00:00:00.000	New Zealand	Oceania	eu1
+G22251	1984-01-01 00:00:00.000	New Zealand	Oceania	eu1
+G22274	1997-01-01 00:00:00.000	New Zealand	Oceania	eu1
+G22309	2002-01-01 00:00:00.000	New Zealand	Oceania	eu1
+G22318	1999-01-01 00:00:00.000	New Zealand	Oceania	eu1
+G22319	2001-01-01 00:00:00.000	New Zealand	Oceania	eu1
+G22348	1997-01-01 00:00:00.000	New Zealand	Oceania	eu1
+G22367	1996-01-01 00:00:00.000	New Zealand	Oceania	eu1
+G22396	1997-01-01 00:00:00.000	New Zealand	Oceania	eu1
+G22403	1998-01-01 00:00:00.000	New Zealand	Oceania	eu1
+G22423	2000-01-01 00:00:00.000	New Zealand	Oceania	eu1
+G22428	1994-01-01 00:00:00.000	New Zealand	Oceania	eu1
+G22439	2005-01-01 00:00:00.000	New Zealand	Oceania	eu1
+G22443	2002-01-01 00:00:00.000	New Zealand	Oceania	eu1
+G22461	1999-01-01 00:00:00.000	New Zealand	Oceania	eu1
+G22462	2001-01-01 00:00:00.000	New Zealand	Oceania	eu1
+G22475	1985-01-01 00:00:00.000	New Zealand	Oceania	eu1
+G22478	1993-01-01 00:00:00.000	New Zealand	Oceania	eu1
+G22497	2007-01-01 00:00:00.000	New Zealand	Oceania	eu1
+G22513		USA	Northern America	orygis
+G22514		USA	Northern America	orygis
+G22515		USA	Northern America	orygis
+G22516		USA	Northern America	orygis
+G22517		USA	Northern America	orygis
+G22518		USA	Northern America	orygis
+G22519		USA	Northern America	orygis
+G22520		USA	Northern America	orygis
+G22538	2007-04-06 00:00:00.000	Uganda	Eastern Africa	af2
+G26444		Ethiopia	Eastern Africa	af2
+G26559		South Africa	Southern Africa	orygis
+G26560		Netherlands	Western Europe	orygis
+G26561		Netherlands	Western Europe	orygis
+G26562			unknown	orygis
+G26563	1994-03-19 00:00:00.000	South Asia	Southern Asia	orygis
+G26564		Netherlands	Western Europe	orygis
+G26565	1996-09-02 00:00:00.000	South Asia	Southern Asia	orygis
+G26566	1997-07-28 00:00:00.000	South Asia	Southern Asia	orygis
+G26567	2000-09-05 00:00:00.000	Southeast Asia	Southeastern Asia	orygis
+G26568	2001-09-19 00:00:00.000	South Asia	Southern Asia	orygis
+G26569	2002-03-03 00:00:00.000	South Asia	Southern Asia	orygis
+G26570			unknown	orygis
+G26571	2007-03-09 00:00:00.000	South Asia	Southern Asia	orygis
+G26572			unknown	orygis
+G28351		Bangladesh	Southern Asia	orygis
+G36314	1985-01-01 00:00:00.000	Canada	Northern America	eu1
+G36315	2002-01-01 00:00:00.000	Canada	Northern America	eu2
+G36316	2006-01-01 00:00:00.000	Canada	Northern America	eu1
+G36317	2008-01-01 00:00:00.000	Canada	Northern America	eu1
+G36378		Spain	Southern Europe	unk2
+G36379		Spain	Southern Europe	unk2
+G36380		Spain	Southern Europe	unk2
+G36381		Spain	Southern Europe	unk2
+G36382		Spain	Southern Europe	unk2
+G36383		Spain	Southern Europe	unk2
+G36384		Spain	Southern Europe	unk2
+G36385		Eritrea	Eastern Africa	unk2
+G36386		Eritrea	Eastern Africa	unk2
+G36387		Eritrea	Eastern Africa	unk2
+G36388		Eritrea	Eastern Africa	unk2
+G36389		Eritrea	Eastern Africa	unk2
+G36390		Eritrea	Eastern Africa	unk2
+G36391		Eritrea	Eastern Africa	unk2
+G36392		Eritrea	Eastern Africa	unk2
+G36393		Eritrea	Eastern Africa	unk2
+G36394		Eritrea	Eastern Africa	unk2
+G36395		Eritrea	Eastern Africa	unk2
+G36396		Eritrea	Eastern Africa	unk2
+G36397		Eritrea	Eastern Africa	unk2
+G36398		Eritrea	Eastern Africa	unk2
+G36399		Ethiopia	Eastern Africa	unk2
+G36400		Ethiopia	Eastern Africa	unk2
+G36401	2010-01-01 00:00:00.000	Brazil	South America	eu2
+G36402	2015-01-01 00:00:00.000	Mexico	Central America	eu2
+G36403	2015-01-01 00:00:00.000	Mexico	Central America	eu2
+G36405	2015-01-01 00:00:00.000	Mexico	Central America	eu1
+G36420	2015-01-01 00:00:00.000	Mexico	Central America	eu1
+G36437	2015-01-01 00:00:00.000	Mexico	Central America	eu1
+G36438	2015-01-01 00:00:00.000	Mexico	Central America	eu1
+G36439	2015-01-01 00:00:00.000	Mexico	Central America	eu1
+G36454	2011-01-01 00:00:00.000	Mexico	Central America	eu1
+G36476	2015-01-01 00:00:00.000	Mexico	Central America	eu1
+G36537	2015-01-01 00:00:00.000	Mexico	Central America	eu1
+G36556	2015-01-01 00:00:00.000	Mexico	Central America	eu2
+G36557	2015-01-01 00:00:00.000	Mexico	Central America	eu2
+G36564	2015-01-01 00:00:00.000	Mexico	Central America	eu1
+G36565	2015-01-01 00:00:00.000	Mexico	Central America	eu1
+G36574	1998-01-01 00:00:00.000	South Africa	Southern Africa	eu2
+G36575	1997-01-01 00:00:00.000	South Africa	Southern Africa	eu1
+G36576	1997-01-01 00:00:00.000	South Africa	Southern Africa	eu2
+G36577	1999-01-01 00:00:00.000	South Africa	Southern Africa	eu2
+G36578	1998-01-01 00:00:00.000	South Africa	Southern Africa	eu2
+G36579	1999-01-01 00:00:00.000	South Africa	Southern Africa	eu1
+G36580	2003-01-01 00:00:00.000	South Africa	Southern Africa	eu1
+G36581	1998-01-01 00:00:00.000	South Africa	Southern Africa	eu2
+G36582	1996-01-01 00:00:00.000	South Africa	Southern Africa	eu2
+G36583	2000-01-01 00:00:00.000	South Africa	Southern Africa	eu2
+G36584	2000-01-01 00:00:00.000	South Africa	Southern Africa	eu1
+G36585	1999-01-01 00:00:00.000	South Africa	Southern Africa	eu2
+G36586	1998-01-01 00:00:00.000	South Africa	Southern Africa	eu1
+G36587	2014-01-01 00:00:00.000	Uruguay	South America	eu1
+G36588	2015-01-01 00:00:00.000	Uruguay	South America	eu1
+G36589	2015-01-01 00:00:00.000	Uruguay	South America	eu1
+G36590	2014-01-01 00:00:00.000	Uruguay	South America	eu1
+G36591	2008-01-01 00:00:00.000	Uruguay	South America	eu1
+G36592	2014-01-01 00:00:00.000	Uruguay	South America	eu1
+G36593	2014-01-01 00:00:00.000	Uruguay	South America	eu1
+G36594	2015-01-01 00:00:00.000	Uruguay	South America	eu1
+G36595	2015-01-01 00:00:00.000	Uruguay	South America	eu1
+G36596	2014-01-01 00:00:00.000	Uruguay	South America	eu1
+G36597	2015-01-01 00:00:00.000	Uruguay	South America	eu1
+G36598	2015-01-01 00:00:00.000	Uruguay	South America	eu1
+G36599	1998-01-01 00:00:00.000	Uruguay	South America	eu1
+G36600	2015-01-01 00:00:00.000	Uruguay	South America	eu1
+G36601	2015-01-01 00:00:00.000	Uruguay	South America	eu1
+G36602	2015-01-01 00:00:00.000	Uruguay	South America	eu1
+G36603	2015-01-01 00:00:00.000	Uruguay	South America	eu1
+G36604	2015-01-01 00:00:00.000	Uruguay	South America	eu1
+G36605	2010-01-01 00:00:00.000	Uruguay	South America	eu1
+G36606	2008-01-01 00:00:00.000	Uruguay	South America	eu1
+G36607	2010-01-01 00:00:00.000	Uruguay	South America	eu1
+G36609	2005-01-01 00:00:00.000	Uruguay	South America	eu1
+G36624		Ireland	Northern Europe	eu1
+G36645	2004-01-01 00:00:00.000	Germany	Western Europe	caprae
+G36660	2009-01-01 00:00:00.000	Germany	Western Europe	caprae
+G36703		Netherlands	Western Europe	eu2
+G36704		Germany	Western Europe	eu2
+G36705	2016-01-01 00:00:00.000	UK	Northern Europe	eu1
+G36706		UK	Northern Europe	eu1
+G36707		UK	Northern Europe	eu1
+G36708		UK	Northern Europe	unk7
+G36710		UK	Northern Europe	eu1
+G36711		UK	Northern Europe	eu1
+G36712		UK	Northern Europe	eu1
+G36713		UK	Northern Europe	unk5
+G36715	2016-01-01 00:00:00.000	UK	Northern Europe	unk7
+G36717		UK	Northern Europe	eu1
+G36718		UK	Northern Europe	eu1
+G36719		UK	Northern Europe	eu1
+G36720		UK	Northern Europe	eu1
+G36721		UK	Northern Europe	eu1
+G36724		UK	Northern Europe	eu1
+G36725		UK	Northern Europe	eu1
+G36727		UK	Northern Europe	eu1
+G36729		UK	Northern Europe	eu1
+G36730		UK	Northern Europe	eu1
+G36731	2016-01-01 00:00:00.000	UK	Northern Europe	eu1
+G36732		UK	Northern Europe	eu1
+G36733		UK	Northern Europe	eu1
+G36734	2016-01-01 00:00:00.000	UK	Northern Europe	eu1
+G36735		UK	Northern Europe	eu1
+G36736		UK	Northern Europe	eu1
+G36737		UK	Northern Europe	eu1
+G36738		UK	Northern Europe	eu1
+G36740		UK	Northern Europe	af1
+G36741		Belgium	Western Europe	eu2
+G36742		Belgium	Western Europe	unk7
+G36743		Belgium	Western Europe	eu2
+G36744		Germany	Western Europe	unk3
+G36745		Germany	Western Europe	unk3
+G36750		Netherlands	Western Europe	eu2
+G36751		Netherlands	Western Europe	unk3
+G36752		Netherlands	Western Europe	eu2
+G36753		Netherlands	Western Europe	eu2
+G36754		Netherlands	Western Europe	eu2
+G36755		Netherlands	Western Europe	eu2
+G36756		Netherlands	Western Europe	eu2
+G36757		Netherlands	Western Europe	eu2
+G36758		SA	Southern Africa	eu2
+G36760		Netherlands	Western Europe	caprae
+G36761		Peru	South America	caprae
+G36762		Peru	South America	caprae
+G36763		UK	Northern Europe	orygis
+G36764		UK	Northern Europe	orygis
+G36765		UK	Northern Europe	orygis
+G36766		UK	Northern Europe	orygis
+G36767		UK	Northern Europe	orygis
+G36768		UK	Northern Europe	orygis
+G36769		UK	Northern Europe	orygis
+G36770		UK	Northern Europe	orygis
+G36771		UK	Northern Europe	orygis
+G36772		UK	Northern Europe	orygis
+G36773		UK	Northern Europe	orygis
+G36774		UK	Northern Europe	orygis
+G36775		UK	Northern Europe	orygis
+G36776		UK	Northern Europe	orygis
+G36778		UK	Northern Europe	orygis
+G36779		UK	Northern Europe	orygis
+G36781		UK	Northern Europe	orygis
+G36782		UK	Northern Europe	orygis
+G36783		UK	Northern Europe	orygis
+G36784		UK	Northern Europe	orygis
+G36785		UK	Northern Europe	orygis
+G36786		UK	Northern Europe	orygis
+G36787		UK	Northern Europe	orygis
+G36788		UK	Northern Europe	orygis
+G36789		Germany	Western Europe	orygis
+G36790		Germany	Western Europe	orygis
+G36791		Germany	Western Europe	orygis
+G36792		UK	Northern Europe	orygis
+G36793		Netherlands	Western Europe	orygis
+G36797	2015-01-01 00:00:00.000	Germany	Western Europe	eu2
+G36798	2002-01-01 00:00:00.000	Germany	Western Europe	unk4
+G36799	2002-01-01 00:00:00.000	Germany	Western Europe	unk4
+G36800	2000-01-01 00:00:00.000	Germany	Western Europe	PZA_sus
+G36801			unknown	unk2
+G36802	2012-01-01 00:00:00.000	Germany	Western Europe	eu1
+G36803	2015-01-01 00:00:00.000	Germany	Western Europe	eu2
+G36804	2014-01-01 00:00:00.000	Germany	Western Europe	unk2
+G36805	2000-01-01 00:00:00.000	Germany	Western Europe	eu2
+G36806	2012-01-01 00:00:00.000	Germany	Western Europe	eu2
+G36807	2012-01-01 00:00:00.000	Germany	Western Europe	eu2
+G36808	2011-01-01 00:00:00.000	Germany	Western Europe	unk3
+G36809			unknown	unk2
+G36810	1999-01-01 00:00:00.000	Germany	Western Europe	eu2
+G36811	1999-01-01 00:00:00.000	Germany	Western Europe	eu2
+G36871	2013-01-01 00:00:00.000	Germany	Western Europe	eu2
+G36872	2013-01-01 00:00:00.000	Germany	Western Europe	unk4
+G36873	2013-01-01 00:00:00.000	Germany	Western Europe	unk4
+G36886	2010-01-01 00:00:00.000	Germany	Western Europe	unk4
+G36887	2010-01-01 00:00:00.000	Germany	Western Europe	unk4
+G36892	2009-01-01 00:00:00.000	Germany	Western Europe	unk4
+G36893	2009-01-01 00:00:00.000	Germany	Western Europe	eu2
+G36894	2008-01-01 00:00:00.000	Germany	Western Europe	unk4
+G36895	2008-01-01 00:00:00.000	Germany	Western Europe	eu2
+G36896	2008-01-01 00:00:00.000	Germany	Western Europe	eu2
+G36897	2000-01-01 00:00:00.000	Germany	Western Europe	eu2
+G36898	2000-01-01 00:00:00.000	Germany	Western Europe	unk2
+G36907	2001-01-01 00:00:00.000	USA	Northern America	eu1
+G36910	2001-01-01 00:00:00.000	USA	Northern America	eu1
+G36914	2001-01-01 00:00:00.000	USA	Northern America	eu1
+G36915	2001-01-01 00:00:00.000	USA	Northern America	eu2
+G36917	2001-01-01 00:00:00.000	USA	Northern America	af2
+G36919	2001-01-01 00:00:00.000	USA	Northern America	af2
+G36929	2001-01-01 00:00:00.000	USA	Northern America	eu2
+G36935	2001-01-01 00:00:00.000	USA	Northern America	eu1
+G36943	2001-01-01 00:00:00.000	USA	Northern America	eu2
+G36944	2001-01-01 00:00:00.000	USA	Northern America	eu1
+G36958	2001-01-01 00:00:00.000	USA	Northern America	eu1
+G36959	2001-01-01 00:00:00.000	USA	Northern America	eu1
+G36969	2002-01-01 00:00:00.000	USA	Northern America	eu1
+G36970	2002-01-01 00:00:00.000	USA	Northern America	eu1
+G36973	2002-01-01 00:00:00.000	USA	Northern America	eu1
+G36977	2002-01-01 00:00:00.000	USA	Northern America	eu1
+G36980	2002-01-01 00:00:00.000	USA	Northern America	eu1
+G36984	2002-01-01 00:00:00.000	USA	Northern America	eu1
+G36991	2002-01-01 00:00:00.000	USA	Northern America	eu1
+G36992	2002-01-01 00:00:00.000	USA	Northern America	eu1
+G36999	2002-01-01 00:00:00.000	USA	Northern America	eu1
+G37000	2002-01-01 00:00:00.000	USA	Northern America	eu2
+G37004	2002-01-01 00:00:00.000	USA	Northern America	eu2
+G37008	2002-01-01 00:00:00.000	USA	Northern America	eu1
+G37009	2002-01-01 00:00:00.000	USA	Northern America	eu2
+G37011	2002-01-01 00:00:00.000	USA	Northern America	eu2
+G37016	2002-01-01 00:00:00.000	USA	Northern America	eu1
+G37023	2002-01-01 00:00:00.000	USA	Northern America	eu1
+G37029	2002-01-01 00:00:00.000	USA	Northern America	eu1
+G37031	2002-01-01 00:00:00.000	USA	Northern America	eu2
+G37033	2002-01-01 00:00:00.000	USA	Northern America	eu1
+G37036	2002-01-01 00:00:00.000	USA	Northern America	eu1
+G37039	2002-01-01 00:00:00.000	USA	Northern America	eu2
+G37041	2002-01-01 00:00:00.000	USA	Northern America	eu1
+G37048	2003-01-01 00:00:00.000	USA	Northern America	eu2
+G37068	2003-01-01 00:00:00.000	USA	Northern America	eu1
+G37071	2003-01-01 00:00:00.000	USA	Northern America	eu1
+G37073	2003-01-01 00:00:00.000	USA	Northern America	eu2
+G37078	2003-01-01 00:00:00.000	USA	Northern America	eu1
+G37083	2003-01-01 00:00:00.000	USA	Northern America	eu2
+G37087	2003-01-01 00:00:00.000	USA	Northern America	eu2
+G37088	2003-01-01 00:00:00.000	USA	Northern America	eu1
+G37090	2003-01-01 00:00:00.000	USA	Northern America	eu1
+G37096	2003-01-01 00:00:00.000	USA	Northern America	eu1
+G37098	2003-01-01 00:00:00.000	USA	Northern America	eu2
+G37101	2004-01-01 00:00:00.000	USA	Northern America	eu1
+G37116	2004-01-01 00:00:00.000	USA	Northern America	eu2
+G37118	2004-01-01 00:00:00.000	USA	Northern America	eu1
+G37144	2005-01-01 00:00:00.000	USA	Northern America	eu1
+G37149	2005-01-01 00:00:00.000	USA	Northern America	eu1
+G37154	2005-01-01 00:00:00.000	USA	Northern America	eu1
+G37157	2005-01-01 00:00:00.000	USA	Northern America	eu2
+G37159	2005-01-01 00:00:00.000	USA	Northern America	eu1
+G37160	2005-01-01 00:00:00.000	USA	Northern America	eu1
+G37165	2005-01-01 00:00:00.000	USA	Northern America	eu1
+G37166	2005-01-01 00:00:00.000	USA	Northern America	eu2
+G37167	2005-01-01 00:00:00.000	USA	Northern America	eu2
+G37176	2005-01-01 00:00:00.000	USA	Northern America	eu2
+G37177	2005-01-01 00:00:00.000	USA	Northern America	eu1
+G37182	2005-01-01 00:00:00.000	USA	Northern America	eu1
+G37184	2005-01-01 00:00:00.000	USA	Northern America	eu1
+G37192	2005-01-01 00:00:00.000	USA	Northern America	eu1
+G37194	2006-01-01 00:00:00.000	USA	Northern America	eu1
+G37195	2006-01-01 00:00:00.000	USA	Northern America	eu1
+G37205	2006-01-01 00:00:00.000	USA	Northern America	eu1
+G37209	2006-01-01 00:00:00.000	USA	Northern America	eu2
+G37212	2006-01-01 00:00:00.000	USA	Northern America	eu2
+G37216	2006-01-01 00:00:00.000	USA	Northern America	eu1
+G37221	2006-01-01 00:00:00.000	USA	Northern America	eu1
+G37234	2006-01-01 00:00:00.000	USA	Northern America	eu2
+G37248	2007-01-01 00:00:00.000	USA	Northern America	eu2
+G37250	2007-01-01 00:00:00.000	USA	Northern America	eu1
+G37251	2007-01-01 00:00:00.000	USA	Northern America	eu1
+G37258	2007-01-01 00:00:00.000	USA	Northern America	eu1
+G37267	2007-01-01 00:00:00.000	USA	Northern America	eu1
+G37273	2007-01-01 00:00:00.000	USA	Northern America	eu1
+G37274	2007-01-01 00:00:00.000	USA	Northern America	eu1
+G37275	2007-01-01 00:00:00.000	USA	Northern America	eu2
+G37280	2007-01-01 00:00:00.000	USA	Northern America	eu2
+G37283	2007-01-01 00:00:00.000	USA	Northern America	eu1
+G37297	2008-01-01 00:00:00.000	USA	Northern America	eu1
+G37310	2008-01-01 00:00:00.000	USA	Northern America	eu1
+G37314	2008-01-01 00:00:00.000	USA	Northern America	eu1
+G37317	2008-01-01 00:00:00.000	USA	Northern America	eu2
+G37321	2008-01-01 00:00:00.000	USA	Northern America	eu1
+G37325	2008-01-01 00:00:00.000	USA	Northern America	eu2
+G37329	2008-01-01 00:00:00.000	USA	Northern America	eu2
+G37331	2008-01-01 00:00:00.000	USA	Northern America	eu1
+G37353	2008-01-01 00:00:00.000	USA	Northern America	eu1
+G37359	2008-01-01 00:00:00.000	USA	Northern America	eu1
+G37362	2008-01-01 00:00:00.000	USA	Northern America	eu2
+G37368	2008-01-01 00:00:00.000	USA	Northern America	unk6
+G37371	2009-01-01 00:00:00.000	China	Eastern Asia	caprae
+G37372	2009-01-01 00:00:00.000	USA	Northern America	caprae
+G37378	2009-01-01 00:00:00.000	USA	Northern America	eu2
+G37379	2009-01-01 00:00:00.000	USA	Northern America	eu1
+G37383	2009-01-01 00:00:00.000	USA	Northern America	eu1
+G37385	2009-01-01 00:00:00.000	USA	Northern America	eu1
+G37386	2009-01-01 00:00:00.000	USA	Northern America	eu1
+G37400	2009-01-01 00:00:00.000	USA	Northern America	eu2
+G37411	2009-01-01 00:00:00.000	USA	Northern America	eu2
+G37452	2010-01-01 00:00:00.000	USA	Northern America	eu2
+G37486	2011-01-01 00:00:00.000	USA	Northern America	eu1
+G37488	2011-01-01 00:00:00.000	USA	Northern America	eu1
+G37546	2012-01-01 00:00:00.000	USA	Northern America	eu1
+G37556	2012-01-01 00:00:00.000	USA	Northern America	eu1
+G37557	2012-01-01 00:00:00.000	USA	Northern America	eu1
+G37565	2013-01-01 00:00:00.000	USA	Northern America	eu1
+G37579	2013-01-01 00:00:00.000	USA	Northern America	eu1
+G37617	2013-01-01 00:00:00.000	USA	Northern America	eu2
+G37636	2013-01-01 00:00:00.000	USA	Northern America	eu1
+G37645	2013-01-01 00:00:00.000	USA	Northern America	eu1
+G37648	2013-01-01 00:00:00.000	USA	Northern America	eu1
+G37652	2013-01-01 00:00:00.000	USA	Northern America	eu2
+G37656	2013-01-01 00:00:00.000	USA	Northern America	eu2
+G37681	1991-01-01 00:00:00.000	USA	Northern America	unk6
+G37684	1991-01-01 00:00:00.000	USA	Northern America	eu2
+G37686	1992-01-01 00:00:00.000	USA	Northern America	unk6
+G37688	1992-01-01 00:00:00.000	USA	Northern America	unk6
+G37689	1993-01-01 00:00:00.000	USA	Northern America	unk6
+G37692	1994-01-01 00:00:00.000	USA	Northern America	unk2
+G37694	1994-01-01 00:00:00.000	USA	Northern America	eu1
+G37695	1995-01-01 00:00:00.000	USA	Northern America	unk6
+G37697	1996-01-01 00:00:00.000	USA	Northern America	eu2
+G37698	1996-01-01 00:00:00.000	USA	Northern America	eu2
+G37700	1997-01-01 00:00:00.000	USA	Northern America	unk6
+G37701	1997-01-01 00:00:00.000	USA	Northern America	eu1
+G37709	1999-01-01 00:00:00.000	USA	Northern America	eu2
+G37784		USA	Northern America	eu1
+G37788		USA	Northern America	unk2
+G38449	2013-07-01 00:00:00.000	Panama	Central America	eu1
+G38453	2013-07-01 00:00:00.000	Panama	Central America	eu1
+G38455	2010-11-30 00:00:00.000	France	Western Europe	unk2
+G38456	2011-04-08 00:00:00.000	France	Western Europe	unk7
+G38457	2012-09-11 00:00:00.000	Brazil	South America	eu2
+G38462	2016-01-01 00:00:00.000	Italy	Southern Europe	unk2
+G38463	2016-01-01 00:00:00.000	Italy	Southern Europe	unk2
+G41169		Mexico	Central America	eu1
+G41174		Mexico	Central America	eu1
+G41192		Mexico	Central America	eu2
+G41194		Mexico	Central America	eu2
+G41203		Mexico	Central America	eu1
+G41205		Mexico	Central America	eu1
+G41206		Mexico	Central America	eu1
+G41207		Mexico	Central America	eu1
+G41208		Mexico	Central America	eu2
+G41211		Mexico	Central America	eu1
+G41212		Mexico	Central America	eu2
+G41213		Mexico	Central America	eu1
+G41217		Mexico	Central America	eu1
+G41218		Mexico	Central America	eu1
+G41227		Mexico	Central America	eu1
+G41237		Mexico	Central America	eu1
+G41246		Mexico	Central America	eu1
+G41251		Mexico	Central America	eu1
+G41253		Mexico	Central America	eu1
+G41255		Mexico	Central America	eu2
+G41256		Mexico	Central America	eu2
+G41258		Mexico	Central America	eu1
+G41288		Mexico	Central America	eu1
+G41294		Mexico	Central America	eu2
+G41295		Mexico	Central America	eu2
+G41297		Mexico	Central America	eu1
+G41312		Mexico	Central America	eu1
+G41315		Mexico	Central America	eu1
+G41316		Mexico	Central America	eu2
+G41325		Mexico	Central America	eu1
+G41327		Mexico	Central America	eu2
+G41332		Mexico	Central America	eu2
+G41334		Mexico	Central America	eu1
+G41338		Mexico	Central America	eu1
+G41342		Mexico	Central America	eu1
+G41350		Mexico	Central America	eu1
+G41356		Mexico	Central America	eu1
+G41366		Mexico	Central America	eu1
+G41387		Mexico	Central America	eu1
+G41393		Mexico	Central America	eu1
+G41394		Mexico	Central America	eu1
+G41407		Mexico	Central America	eu2
+G41408		Mexico	Central America	eu2
+G41412		Mexico	Central America	eu1
+G41413		Mexico	Central America	eu1
+G41417		Mexico	Central America	eu1
+G41420		Mexico	Central America	eu1
+G41439		Mexico	Central America	eu1
+G41441		Mexico	Central America	eu2
+G41443		Mexico	Central America	eu2
+G41450		Mexico	Central America	eu2
+G41456		Mexico	Central America	eu1
+G41457		Mexico	Central America	eu1
+G41460		Mexico	Central America	eu1
+G41466		Mexico	Central America	eu1
+G41467		Mexico	Central America	eu1
+G41476		Mexico	Central America	eu1
+G41478		Mexico	Central America	eu1
+G41480		Mexico	Central America	eu1
+G41481		Mexico	Central America	eu1
+G41484		Mexico	Central America	eu1
+G41487		Mexico	Central America	eu1
+G41490		Uganda	Eastern Africa	af2
+G41491		Uganda	Eastern Africa	af2
+G41492		Uganda	Eastern Africa	af2
+G41493		Uganda	Eastern Africa	PZA_sus
+G41494		Uganda	Eastern Africa	af2
+G41495		Uganda	Eastern Africa	af2
+G41496		Uganda	Eastern Africa	PZA_sus
+G41497		Uganda	Eastern Africa	PZA_sus
+G41498		Uganda	Eastern Africa	PZA_sus
+G41499		Uganda	Eastern Africa	af2
+G41500		Uganda	Eastern Africa	af2
+G41501		Uganda	Eastern Africa	af2
+G41502		Uganda	Eastern Africa	af2
+G41503		Uganda	Eastern Africa	af2
+G41504		Uganda	Eastern Africa	PZA_sus
+G41505		Uganda	Eastern Africa	af2
+G41506		Uganda	Eastern Africa	af2
+G41507		Uganda	Eastern Africa	af2
+G41508		Uganda	Eastern Africa	af2
+G41509		Zambia	Eastern Africa	unk5
+G41510		Zambia	Eastern Africa	unk5
+G41511		Zambia	Eastern Africa	unk5
+G41512		Zambia	Eastern Africa	unk5
+G41513		Zambia	Eastern Africa	unk5
+G41514		Zambia	Eastern Africa	unk5
+G41515		Zambia	Eastern Africa	unk5
+G41516		Zambia	Eastern Africa	unk5
+G41517		Ethiopia	Eastern Africa	af2
+G41518		Ethiopia	Eastern Africa	af2
+G41519		Ethiopia	Eastern Africa	af2
+G41520		Ethiopia	Eastern Africa	af2
+G41521		Ethiopia	Eastern Africa	af2
+G41522		Ethiopia	Eastern Africa	af2
+G41523		Ethiopia	Eastern Africa	af2
+G41524		Ethiopia	Eastern Africa	af2
+G41525		Ethiopia	Eastern Africa	af2
+G41526		Ethiopia	Eastern Africa	af2
+G41527		Ethiopia	Eastern Africa	af2
+G41528		Ethiopia	Eastern Africa	af2
+G41529		Ethiopia	Eastern Africa	af2
+G41530		Ethiopia	Eastern Africa	af2
+G41531		Ethiopia	Eastern Africa	af2
+G41532		Ethiopia	Eastern Africa	af2
+G41568	1992-01-01 00:00:00.000	New Zealand	Oceania	eu1
+G41570	2001-01-01 00:00:00.000	New Zealand	Oceania	eu1
+G41572	2006-01-01 00:00:00.000	New Zealand	Oceania	eu1
+G41585	2001-01-01 00:00:00.000	New Zealand	Oceania	eu1
+G41615	2004-01-01 00:00:00.000	New Zealand	Oceania	eu1
+G41617	1948-01-01 00:00:00.000	New Zealand	Oceania	eu1
+G41618	2007-01-01 00:00:00.000	New Zealand	Oceania	eu1
+G41622	2011-01-01 00:00:00.000	New Zealand	Oceania	eu1
+G41686	1990-01-01 00:00:00.000	New Zealand	Oceania	eu1
+G41690	1997-01-01 00:00:00.000	New Zealand	Oceania	eu1
+G41691	1996-01-01 00:00:00.000	New Zealand	Oceania	eu1
+G41693	1990-01-01 00:00:00.000	New Zealand	Oceania	eu1
+G41702	1994-01-01 00:00:00.000	New Zealand	Oceania	eu1
+G41764	2007-01-01 00:00:00.000	New Zealand	Oceania	eu1
+G41772	2015-01-01 00:00:00.000	New Zealand	Oceania	eu1
+G41775	2014-01-01 00:00:00.000	New Zealand	Oceania	eu1
+G41810	2004-01-01 00:00:00.000	New Zealand	Oceania	eu1
+G41815	1996-01-01 00:00:00.000	New Zealand	Oceania	eu1
+G41836	2013-01-01 00:00:00.000	New Zealand	Oceania	eu1
+G41838	2009-01-01 00:00:00.000	China	Eastern Asia	caprae
+G41842	2007-01-01 00:00:00.000	New Zealand	Oceania	eu1
+G41857	1996-01-01 00:00:00.000	New Zealand	Oceania	eu1
+G41858	2009-01-01 00:00:00.000	New Zealand	Oceania	eu1
+G41886	2014-01-01 00:00:00.000	New Zealand	Oceania	eu1
+G41887	2011-01-01 00:00:00.000	New Zealand	Oceania	eu1
+G41937	2009-01-01 00:00:00.000	New Zealand	Oceania	eu1
+G41988	2015-01-01 00:00:00.000	New Zealand	Oceania	eu1
+G42003	2012-01-01 00:00:00.000	New Zealand	Oceania	eu1
+G42004	1999-01-01 00:00:00.000	New Zealand	Oceania	eu1
+G42012	2017-01-01 00:00:00.000	New Zealand	Oceania	eu1
+G42039	2011-01-01 00:00:00.000	Tunisia	Northern Africa	unk2
+G42045	2016-03-31 00:00:00.000	UK	Northern Europe	eu1
+G42077		USA	Northern America	eu1
+G42133	2016-01-01 00:00:00.000	Lebanon	Western Asia	unk3
+G42136	2016-01-01 00:00:00.000	Lebanon	Western Asia	eu2
+G42152	2016-01-01 00:00:00.000	Japan	Eastern Asia	caprae
+G42153	2017-01-01 00:00:00.000	Japan	Eastern Asia	caprae
+G45334		Switzerland	Western Europe	unk2
+G45335		Switzerland	Western Europe	unk2
+G45336		Switzerland	Western Europe	unk2
+G47573	2001-01-01 00:00:00.000	France	Western Europe	eu2
+G47574	2000-01-01 00:00:00.000	France	Western Europe	eu2
+G47575	2004-01-01 00:00:00.000	France	Western Europe	unk2
+G47576	2002-01-01 00:00:00.000	France	Western Europe	eu2
+G47577	2006-01-01 00:00:00.000	France	Western Europe	unk7
+G47578	2004-01-01 00:00:00.000	France	Western Europe	eu1
+G47579	2006-01-01 00:00:00.000	France	Western Europe	unk7
+G47580	2006-01-01 00:00:00.000	France	Western Europe	unk7
+G47581	2006-01-01 00:00:00.000	France	Western Europe	eu2
+G47582	2006-01-01 00:00:00.000	France	Western Europe	unk2
+G47583	2009-01-01 00:00:00.000	France	Western Europe	eu2
+G47584	2009-01-01 00:00:00.000	France	Western Europe	unk7
+G47585	2011-01-01 00:00:00.000	France	Western Europe	unk2
+G47586	2011-01-01 00:00:00.000	France	Western Europe	unk2
+G47587	2010-01-01 00:00:00.000	France	Western Europe	eu1
+G47588	2010-01-01 00:00:00.000	France	Western Europe	unk7
+G47589	1999-01-01 00:00:00.000	France	Western Europe	unk2
+G47590	1999-01-01 00:00:00.000	France	Western Europe	unk2
+G47591	1999-01-01 00:00:00.000	France	Western Europe	eu2
+G47592	1999-01-01 00:00:00.000	France	Western Europe	eu2
+G47593	1998-01-01 00:00:00.000	France	Western Europe	eu1
+G47594	1998-01-01 00:00:00.000	France	Western Europe	unk2
+G47595	1998-01-01 00:00:00.000	France	Western Europe	unk2
+G47596	1997-01-01 00:00:00.000	France	Western Europe	unk2
+G47597	2011-01-01 00:00:00.000	France	Western Europe	unk7
+G47598	1999-01-01 00:00:00.000	France	Western Europe	unk2
+G47599	1999-01-01 00:00:00.000	France	Western Europe	unk2
+G47600	2011-01-01 00:00:00.000	France	Western Europe	unk7
+G47601	2011-01-01 00:00:00.000	France	Western Europe	unk7
+G47602	1991-01-01 00:00:00.000	France	Western Europe	unk2
+G47603	2011-01-01 00:00:00.000	France	Western Europe	unk2
+G47604	2011-01-01 00:00:00.000	France	Western Europe	unk2
+G47605	2008-01-01 00:00:00.000	France	Western Europe	eu2
+G47606	1992-01-01 00:00:00.000	France	Western Europe	unk7
+G47607	2011-01-01 00:00:00.000	France	Western Europe	unk2
+G47608	2011-01-01 00:00:00.000	France	Western Europe	eu2
+G47609	2008-01-01 00:00:00.000	France	Western Europe	unk7
+G47610	2010-01-01 00:00:00.000	France	Western Europe	unk7
+G47611	2011-01-01 00:00:00.000	France	Western Europe	unk7
+G47612	2009-01-01 00:00:00.000	France	Western Europe	unk7
+G47613	2011-01-01 00:00:00.000	France	Western Europe	unk7
+G47614	2007-01-01 00:00:00.000	France	Western Europe	eu1
+G47615	2008-01-01 00:00:00.000	France	Western Europe	unk2
+G47616	2007-01-01 00:00:00.000	France	Western Europe	eu2
+G47617	2007-01-01 00:00:00.000	France	Western Europe	unk2
+G47618	2008-01-01 00:00:00.000	France	Western Europe	unk2
+G47619	2009-01-01 00:00:00.000	France	Western Europe	unk2
+G47620	1997-01-01 00:00:00.000	France	Western Europe	unk2
+G47621	1997-01-01 00:00:00.000	France	Western Europe	unk2
+G47622	1996-01-01 00:00:00.000	France	Western Europe	eu2
+G47623	1997-01-01 00:00:00.000	France	Western Europe	unk2
+G47624	1995-01-01 00:00:00.000	France	Western Europe	eu1
+G47625	1996-01-01 00:00:00.000	France	Western Europe	unk2
+G47626	1995-01-01 00:00:00.000	France	Western Europe	unk2
+G47627	1995-01-01 00:00:00.000	France	Western Europe	unk7
+G47628	1994-01-01 00:00:00.000	France	Western Europe	unk2
+G47629	1994-01-01 00:00:00.000	France	Western Europe	unk2
+G47630	1999-01-01 00:00:00.000	France	Western Europe	eu2
+G47631	1999-01-01 00:00:00.000	France	Western Europe	eu2
+G47632	1999-01-01 00:00:00.000	France	Western Europe	unk2
+G47633	1999-01-01 00:00:00.000	France	Western Europe	unk2
+G47634	2000-01-01 00:00:00.000	France	Western Europe	unk7
+G47635	2000-01-01 00:00:00.000	France	Western Europe	unk4
+G47636	2000-01-01 00:00:00.000	France	Western Europe	eu2
+G47637	2000-01-01 00:00:00.000	France	Western Europe	eu1
+G47638	2000-01-01 00:00:00.000	France	Western Europe	unk2
+G47639	2000-01-01 00:00:00.000	France	Western Europe	unk4
+G47640	2011-01-01 00:00:00.000	France	Western Europe	unk2
+G47641	2009-01-01 00:00:00.000	France	Western Europe	unk2
+G47642	2011-01-01 00:00:00.000	France	Western Europe	unk2
+G47643	2011-01-01 00:00:00.000	France	Western Europe	unk7
+G47644	2009-01-01 00:00:00.000	France	Western Europe	unk2
+G47645	1991-01-01 00:00:00.000	France	Western Europe	unk7
+G47646	1991-01-01 00:00:00.000	France	Western Europe	unk4
+G47647	1991-01-01 00:00:00.000	France	Western Europe	unk2
+G47648	1989-01-01 00:00:00.000	France	Western Europe	unk2
+G47649	1989-01-01 00:00:00.000	France	Western Europe	unk7
+G47650	1983-01-01 00:00:00.000	France	Western Europe	unk2
+G47651	1985-01-01 00:00:00.000	France	Western Europe	unk7
+G47652	2011-01-01 00:00:00.000	France	Western Europe	unk7
+G47653	2011-01-01 00:00:00.000	France	Western Europe	eu2
+G47654	1992-01-01 00:00:00.000	France	Western Europe	unk2
+G47655	2011-01-01 00:00:00.000	France	Western Europe	eu2
+G47656		Brazil	South America	unk4
+G47657		Brazil	South America	unk4
+G47658		Brazil	South America	unk4
+G47659		Brazil	South America	unk4
+G47660		Brazil	South America	unk4
+G47661		Brazil	South America	unk4
+G47662		Brazil	South America	unk4
+G47663		Brazil	South America	unk4
+G47665		Brazil	South America	unk4
+G47666		Brazil	South America	unk4
+G47667		Brazil	South America	unk4
+G47668		Brazil	South America	unk4
+G47669		Brazil	South America	unk4
+G47670		Brazil	South America	unk4
+G47671		Brazil	South America	unk4
+G47676		Brazil	South America	unk4
+G47677	2010-01-01 00:00:00.000	France	Western Europe	unk2
+G47678	2010-01-01 00:00:00.000	France	Western Europe	unk2
+G47679	2011-01-01 00:00:00.000	France	Western Europe	unk7
+G49362	2016-12-08 00:00:00.000	India	Southern Asia	orygis
+G49363	2006-01-01 00:00:00.000	France	Western Europe	unk7
+G49364	2006-01-01 00:00:00.000	France	Western Europe	unk7
+G49365	2004-01-01 00:00:00.000	France	Western Europe	eu1
+G49366	2004-01-01 00:00:00.000	France	Western Europe	unk2
+G49367	2002-01-01 00:00:00.000	France	Western Europe	eu2
+G49368	2001-01-01 00:00:00.000	France	Western Europe	eu2
+G49369	2000-01-01 00:00:00.000	France	Western Europe	eu2
+G49370	2012-12-19 00:00:00.000	Brazil	South America	eu2
+G49371	2012-09-11 00:00:00.000	Brazil	South America	eu2
+G49372	2017-02-13 00:00:00.000	India	Southern Asia	orygis
+G49373	2016-08-31 00:00:00.000	India	Southern Asia	orygis
+G49374	2016-02-07 00:00:00.000	India	Southern Asia	orygis
+G49375	2016-02-07 00:00:00.000	India	Southern Asia	orygis
+G49376	2015-06-20 00:00:00.000	India	Southern Asia	orygis
+G49377	2015-03-14 00:00:00.000	India	Southern Asia	orygis
+G49378	2015-02-16 00:00:00.000	India	Southern Asia	orygis
+G49379	2014-01-13 00:00:00.000	India	Southern Asia	orygis
+G49380	2013-12-28 00:00:00.000	India	Southern Asia	orygis
+G49381	2013-12-28 00:00:00.000	India	Southern Asia	orygis
+G49382	2013-11-18 00:00:00.000	India	Southern Asia	orygis
+G49383	2013-11-18 00:00:00.000	India	Southern Asia	orygis
+G49384	2013-11-12 00:00:00.000	India	Southern Asia	orygis
+G49385	2013-11-11 00:00:00.000	India	Southern Asia	orygis
+G49386	2013-10-28 00:00:00.000	India	Southern Asia	orygis
+G49387	2013-02-16 00:00:00.000	India	Southern Asia	orygis
+G49388	2013-08-23 00:00:00.000	India	Southern Asia	orygis
+G49389	2013-04-17 00:00:00.000	India	Southern Asia	orygis
+G49390	2013-05-13 00:00:00.000	India	Southern Asia	orygis
+G49401	2018-08-03 00:00:00.000	India	Southern Asia	orygis
+G49402	2019-03-20 00:00:00.000	India	Southern Asia	orygis
+G49403	2018-07-24 00:00:00.000	India	Southern Asia	orygis
+G49404	2019-01-24 00:00:00.000	India	Southern Asia	orygis
+G49405	2018-10-18 00:00:00.000	India	Southern Asia	orygis
+G51349		Tanzania	Eastern Africa	af2
+G59919	2018-01-01 00:00:00.000	Kazakhstan	Central Asia	unk2
+G59967	2017-01-01 00:00:00.000	Moldova: Chisinau	Eastern Europe	unk2
+G60801	2018-01-01 00:00:00.000	Kazakhstan	Central Asia	unk2
+G62291	2014-01-01 00:00:00.000	Indonesia: Bandung	Southeastern Asia	eu1
+G66307	2019-01-01 00:00:00.000	Turkey	Western Asia	caprae
+G66308	2016-01-01 00:00:00.000	Turkey	Western Asia	unk3
+G66310	2017-01-01 00:00:00.000	Turkey	Western Asia	unk3
+G66312	2016-01-01 00:00:00.000	Turkey	Western Asia	unk3
+G66314	2019-01-01 00:00:00.000	Turkey	Western Asia	unk3
+G66315	2017-01-01 00:00:00.000	Turkey	Western Asia	unk3
+G66316	2019-01-01 00:00:00.000	Turkey	Western Asia	unk3
+G66317	2014-01-01 00:00:00.000	Turkey	Western Asia	unk3
+G66318	2013-01-01 00:00:00.000	Turkey	Western Asia	unk3
+G66319	2016-01-01 00:00:00.000	Turkey	Western Asia	unk3
+G66320	2019-01-01 00:00:00.000	Turkey	Western Asia	unk9
+G66321	2017-01-01 00:00:00.000	Turkey	Western Asia	unk9
+G66322	2018-01-01 00:00:00.000	Turkey	Western Asia	unk3
+G66324	2014-01-01 00:00:00.000	Turkey	Western Asia	unk3
+G66325	2014-01-01 00:00:00.000	Turkey	Western Asia	unk3
+G66326		Turkey	Western Asia	unk2
+G66327	2014-01-01 00:00:00.000	Turkey	Western Asia	unk3
+G66328		Turkey	Western Asia	unk3
+G66329	2017-01-01 00:00:00.000	Turkey	Western Asia	unk3
+G66331	2014-04-01 00:00:00.000	Switzerland	Western Europe	caprae
+G66530		Mali	Western Africa	unk7
+G66531		Mali	Western Africa	unk7
+G66533		Mali	Western Africa	af1
+G66535		Ethiopia	Eastern Africa	af2
+G66536		Ethiopia	Eastern Africa	unk2
+G66537		Ethiopia	Eastern Africa	unk2
+G66538		Ethiopia	Eastern Africa	unk2
+G66539		Ethiopia	Eastern Africa	af2
+G66540		Ethiopia	Eastern Africa	af2
+G66541		Ethiopia	Eastern Africa	af2
+G66542		Ethiopia	Eastern Africa	af2
+G66543		Ethiopia	Eastern Africa	af2
+G66544		Ethiopia	Eastern Africa	af2
+G66545		Ethiopia	Eastern Africa	af2
+G66546		Ethiopia	Eastern Africa	unk2
+G66710		Ethiopia	Eastern Africa	af2
+G66711		Ethiopia	Eastern Africa	unk2
+G66713		Ethiopia	Eastern Africa	af2
+G66714		Ethiopia	Eastern Africa	af2
+G66715		Ethiopia	Eastern Africa	unk2
+G66716		Ethiopia	Eastern Africa	unk2
+G66717		Ethiopia	Eastern Africa	af2
+G66718		Ethiopia	Eastern Africa	af2
+G66719		Ethiopia	Eastern Africa	af2
+G66720		Ethiopia	Eastern Africa	af2
+G66721		Ethiopia	Eastern Africa	af2
+G66722		Ethiopia	Eastern Africa	unk2
+G66723		Ethiopia	Eastern Africa	unk2
+G66724		Ethiopia	Eastern Africa	af2
+G66725		Ethiopia	Eastern Africa	af2
+G66726		Ethiopia	Eastern Africa	af2
+G66727		Ethiopia	Eastern Africa	af2
+G66728		Ethiopia	Eastern Africa	af2
+G66729		Ethiopia	Eastern Africa	unk2
+G66730		Ethiopia	Eastern Africa	unk2
+G66731		Ethiopia	Eastern Africa	unk2
+G66732		Ethiopia	Eastern Africa	af2
+G66733		Ethiopia	Eastern Africa	af2
+G66734		Ethiopia	Eastern Africa	unk2
+G66735		Ethiopia	Eastern Africa	unk2
+G66737	2015-01-01 00:00:00.000	Germany	Western Europe	unk9
+G66738	2015-01-01 00:00:00.000	Germany	Western Europe	unk9
+G66740	2003-01-01 00:00:00.000	Germany	Western Europe	unk9
+G66741	2003-01-01 00:00:00.000	Germany	Western Europe	unk9
+G66742	2003-01-01 00:00:00.000	Germany	Western Europe	unk9
+G66743	2003-01-01 00:00:00.000	Germany	Western Europe	unk9
+G66744	2007-01-01 00:00:00.000	Germany	Western Europe	unk9
+G66745	2007-01-01 00:00:00.000	Germany	Western Europe	unk9
+G66746	2009-01-01 00:00:00.000	Germany	Western Europe	unk9
+G66747	2009-01-01 00:00:00.000	Germany	Western Europe	unk9
+G66748	2014-01-01 00:00:00.000	Germany	Western Europe	unk9
+G66749	2003-01-01 00:00:00.000	Germany	Western Europe	unk9
+G66750	2012-07-24 00:00:00.000	Brazil	South America	eu2
+G66752	2009-01-01 00:00:00.000	Italy	Southern Europe	unk2
+G66753	2015-01-01 00:00:00.000	Italy	Southern Europe	unk2
+G67120		Spain	Southern Europe	caprae
+G67121		Spain	Southern Europe	caprae
+G67122		Spain	Southern Europe	caprae
+G67123		Spain	Southern Europe	caprae
+G67124		Spain	Southern Europe	caprae
+G67125		Spain	Southern Europe	caprae
+G67126		Spain	Southern Europe	caprae
+G67127		Spain	Southern Europe	caprae
+G67128		Spain	Southern Europe	caprae
+G67129		Spain	Southern Europe	caprae
+G67130		Spain	Southern Europe	caprae
+G67131		Spain	Southern Europe	caprae
+G67132		Spain	Southern Europe	caprae
+G67133		Spain	Southern Europe	caprae
+G67134		Spain	Southern Europe	caprae
+G67135		Spain	Southern Europe	caprae
+G67136		Spain	Southern Europe	caprae
+G67137		Spain	Southern Europe	caprae
+G67138		Spain	Southern Europe	caprae
+G67139		Spain	Southern Europe	caprae
+G67140		Spain	Southern Europe	caprae
+G67141		Spain	Southern Europe	caprae
+G67142		Spain	Southern Europe	caprae
+G67143		Spain	Southern Europe	caprae
+G67144		Spain	Southern Europe	caprae
+G67145		Spain	Southern Europe	caprae
+G67146		Spain	Southern Europe	caprae
+G67147		Spain	Southern Europe	caprae
+G67148		Spain	Southern Europe	caprae
+G67149		Spain	Southern Europe	caprae
+G67150		Spain	Southern Europe	caprae
+G67151		Spain	Southern Europe	caprae
+G67152		Spain	Southern Europe	caprae
+G67153		Spain	Southern Europe	caprae
+G67154		Spain	Southern Europe	caprae
+G67155		Spain	Southern Europe	caprae
+G67156		Spain	Southern Europe	caprae
+G67157		Spain	Southern Europe	caprae
+G67158		Spain	Southern Europe	caprae
+G67159		Spain	Southern Europe	caprae
+G67160		Spain	Southern Europe	caprae
+G67161		Spain	Southern Europe	caprae
+G67162		Spain	Southern Europe	caprae
+G67163		Spain	Southern Europe	caprae
+G67164		Spain	Southern Europe	caprae
+G67165		Spain	Southern Europe	caprae
+G67166		Spain	Southern Europe	caprae
+G67167		Spain	Southern Europe	caprae
+G67168		Spain	Southern Europe	caprae
+G67169		Spain	Southern Europe	caprae
+G67170		Spain	Southern Europe	caprae
