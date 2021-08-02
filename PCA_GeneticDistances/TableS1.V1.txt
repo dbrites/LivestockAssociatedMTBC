@@ -1,0 +1,841 @@
+Accession_Number	Clonal_Complex	Country_Isolation	Country_Patient_Birth	Gnumber	Host	Map	SIB_Number	Sample.included.in.Loiseau.et.al..2020	Sequence_origin
+ERS2573045	af1	Nigeria	Nigeria	G02538	Human	1	SB0944	1	public repositories
+ERR1203064	af1	Ghana		G08506	Human	1	SB0944	1	public repositories
+ERR502499	af1	Ghana		G08621	Human	1	SB1025	1	public repositories
+ERR502526	af1	Ghana		G08645	Human	1	New pattern	1	public repositories
+ERR502529	af1	Ghana		G08648	Human	1	SB0944	1	public repositories
+ERR502538	af1	Ghana		G08654	Human	1	SB0944	1	public repositories
+ERR553061	af1	Germany		G13968	Human	0	SB0944	1	public repositories
+ERR2515016	af1	United Kingdom		G36740	Human	0	SB1027	1	public repositories
+ERR4769567	af1	Mali		G66533		1	SB0300	0	public repositories
+ERR3458084	af2	Ethiopia		G00229	Human	1	SB1984	1	public repositories
+ERR3458085	af2	Ethiopia		G00234	Human	1	SB0133	1	public repositories
+ERR3458086	af2	Ethiopia		G00244	Human	1	SB0303	1	public repositories
+ERR3458080	af2	Ethiopia		G00370	Cattle	1	New pattern	1	public repositories
+ERR3458081	af2	Ethiopia		G00371	Cattle	1	SB1477	1	public repositories
+ERR3458087	af2	Burundi		G00396	Cattle	1	SB0303	1	public repositories
+SRR1173570	af2	Uganda		G22538	chimpanzee	1	SB0133	1	public repositories
+ERR1200622	af2	Ethiopia		G26444		0	SB0303	1	public repositories
+SRR1791710	af2	Tanzania		G36917	Primate	1	SB2467	1	public repositories
+SRR1791712	af2	Tanzania		G36919	Primate	1	SB2467	1	public repositories
+SRR8065069	af2	Uganda		G41490	Bos taurus	1	SB1469	1	public repositories
+SRR8065070	af2	Uganda		G41491	Bos taurus	1	SB1471	1	public repositories
+SRR8065071	af2	Uganda		G41492	Bos taurus	1	SB1469	1	public repositories
+SRR8065073	af2	Uganda		G41494	Bos taurus	1	SB0133	1	public repositories
+SRR8065074	af2	Uganda		G41495	Bos taurus	1	SB0133	1	public repositories
+SRR8065078	af2	Uganda		G41499	Bos taurus	1	SB1469	1	public repositories
+SRR8065079	af2	Uganda		G41500	Bos taurus	1	SB1469	1	public repositories
+SRR8065080	af2	Uganda		G41501	Bos taurus	1	SB0133	1	public repositories
+SRR8065081	af2	Uganda		G41502	Bos taurus	1	SB0133	1	public repositories
+SRR8065082	af2	Uganda		G41503	Bos taurus	1	SB1469	1	public repositories
+SRR8065084	af2	Uganda		G41505	Bos taurus	1	SB0133	1	public repositories
+SRR8065085	af2	Uganda		G41506	Bos taurus	1	SB1469	1	public repositories
+SRR8065086	af2	Uganda		G41507	Bos taurus	1	SB1469	1	public repositories
+SRR8065087	af2	Uganda		G41508	Bos taurus	1	SB1469	1	public repositories
+SRR8063651	af2	Ethiopia		G41517	Bos taurus	1	SB0133	1	public repositories
+SRR8063652	af2	Ethiopia		G41518	Bos taurus	1	SB0912	1	public repositories
+SRR8063653	af2	Ethiopia		G41519	Bos taurus	1	SB1176	1	public repositories
+SRR8063654	af2	Ethiopia		G41520	Bos taurus	1	SB1176	1	public repositories
+SRR8063655	af2	Ethiopia		G41521	Bos taurus	1	SB0912	1	public repositories
+SRR8063656	af2	Ethiopia		G41522	Bos taurus	1	SB1176	1	public repositories
+SRR8063657	af2	Ethiopia		G41523	Bos taurus	1	SB1176	1	public repositories
+SRR8063658	af2	Ethiopia		G41524	Bos taurus	1	SB1176	1	public repositories
+SRR8063659	af2	Ethiopia		G41525	Bos taurus	1	SB1176	1	public repositories
+SRR8063660	af2	Ethiopia		G41526	Bos taurus	1	SB0133	1	public repositories
+SRR8063661	af2	Ethiopia		G41527	Bos taurus	1	SB1176	1	public repositories
+SRR8063662	af2	Ethiopia		G41528	Bos taurus	1	SB0912	1	public repositories
+SRR8063663	af2	Ethiopia		G41529	Bos taurus	1	SB1176	1	public repositories
+SRR8063664	af2	Ethiopia		G41530	Bos taurus	1	New pattern	1	public repositories
+SRR8063665	af2	Ethiopia		G41531	Bos taurus	1	SB1176	1	public repositories
+SRR8063666	af2	Ethiopia		G41532	Bos taurus	1	SB1176	1	public repositories
+ERR3077969	af2	Tanzania		G51349	Human	1	New pattern	0	public repositories
+ERR4769565	af2	Ethiopia		G66535		0	SB1477	0	public repositories
+ERR4769561	af2	Ethiopia		G66539		0	SB0303	0	public repositories
+ERR4769560	af2	Ethiopia		G66540		0	SB2595	0	public repositories
+ERR4769559	af2	Ethiopia		G66541		0	SB1176	0	public repositories
+ERR4772237	af2	Ethiopia		G66542		0	SB0303	0	public repositories
+ERR4772236	af2	Ethiopia		G66543		0	SB0133	0	public repositories
+ERR4772235	af2	Ethiopia		G66544		0	SB1984	0	public repositories
+ERR4772234	af2	Ethiopia		G66545		0	SB0303	0	public repositories
+ERR4772231	af2	Ethiopia		G66710		1	SB1176	0	public repositories
+ERR4772228	af2	Ethiopia		G66713		1	SB1176	0	public repositories
+ERR4772227	af2	Ethiopia		G66714		1	SB0133	0	public repositories
+ERR4772224	af2	Ethiopia		G66717		1	SB1176	0	public repositories
+ERR4772223	af2	Ethiopia		G66718		1	SB0133	0	public repositories
+ERR4772222	af2	Ethiopia		G66719		1	New pattern	0	public repositories
+ERR4772221	af2	Ethiopia		G66720		1	SB0133	0	public repositories
+ERR4772220	af2	Ethiopia		G66721		1	SB0133	0	public repositories
+ERR4772217	af2	Ethiopia		G66724		1	SB1176	0	public repositories
+ERR4772216	af2	Ethiopia		G66725		1	SB1176	0	public repositories
+ERR4772215	af2	Ethiopia		G66726		1	SB1176	0	public repositories
+ERR4772214	af2	Ethiopia		G66727		1	SB1176	0	public repositories
+ERR4772213	af2	Ethiopia		G66728		1	New pattern	0	public repositories
+ERR4772209	af2	Ethiopia		G66732		1	SB0303	0	public repositories
+ERR4772208	af2	Ethiopia		G66733		1	SB1176	0	public repositories
+ERR1462578	caprae	Germany		G36645	cattle	1	SB0418	1	public repositories
+ERR1462593	caprae	Germany		G36660	cattle	1	SB0418	1	public repositories
+ERR2517345	caprae	Netherlands		G36760		0	SB0835	1	public repositories
+ERR2510183	caprae	Peru		G36761		0	SB0415	1	public repositories
+ERR2510206	caprae	Peru		G36762		0	SB0415	1	public repositories
+SRR1792164	caprae	China		G37371	Primate	1	SB1622	1	public repositories
+SRR1792165	caprae	China		G37372	Primate	1	SB1622	1	public repositories
+SRR7617662	caprae	China		G41838	Monkey	1	SB1622	1	public repositories
+DRR120408	caprae	Japan		G42152	Elephas maximus	1	SB0418	1	public repositories
+DRR120409	caprae	Japan		G42153	Elephas maximus	1	SB0418	1	public repositories
+	caprae	Turkey		G66307	Human	1	SB0419	0	newly sequenced
+	caprae	Switzerland		G66331	cattle	1	New pattern	0	newly sequenced
+ERR017796	eu1	Russia		G04157		0	New pattern	1	public repositories
+ERR400386	eu1	United Kingdom	United Kingdom	G13058		0	SB0272	1	public repositories
+ERR400460	eu1	United Kingdom		G13125		0	New pattern	1	public repositories
+SRR2100072	eu1	United Kingdom		G14219		0	SB0263	1	public repositories
+SRR2100074	eu1	United Kingdom		G14221		0	New pattern	1	public repositories
+SRR2101351	eu1	United Kingdom		G15488		0	SB0263	1	public repositories
+ERR046748	eu1	United Kingdom		G16000		0	New pattern	1	public repositories
+ERR046749	eu1	United Kingdom		G16001		0	SB0263	1	public repositories
+ERR046954	eu1	United Kingdom		G16092		0	SB0263	1	public repositories
+ERR046961	eu1	United Kingdom		G16096		0	SB0263	1	public repositories
+ERR841810	eu1	United Kingdom		G22057	Cow	1	SB0140	1	public repositories
+ERR841874	eu1	United Kingdom		G22121	Cow	1	SB0140	1	public repositories
+SRR5216970	eu1	New Zealand		G22232	Bovine	1	SB0140	1	public repositories
+SRR5216951	eu1	New Zealand		G22251	Possum	1	SB0130	1	public repositories
+SRR5216928	eu1	New Zealand		G22274	Bovine	1	SB0140	1	public repositories
+SRR5216893	eu1	New Zealand		G22309	Bovine	1	SB0140	1	public repositories
+SRR5216884	eu1	New Zealand		G22318	Bovine	1	SB0140	1	public repositories
+SRR5216883	eu1	New Zealand		G22319	Bovine	1	SB1031	1	public repositories
+SRR5216854	eu1	New Zealand		G22348	Bovine	1	SB0140	1	public repositories
+SRR5216835	eu1	New Zealand		G22367	Bovine	1	SB0140	1	public repositories
+SRR5216806	eu1	New Zealand		G22396	Ferret	1	SB0130	1	public repositories
+SRR5216799	eu1	New Zealand		G22403	Bovine	1	SB0140	1	public repositories
+SRR5216779	eu1	New Zealand		G22423	Possum	1	SB0140	1	public repositories
+SRR5216774	eu1	New Zealand		G22428	Bovine	1	SB0140	1	public repositories
+SRR5216763	eu1	New Zealand		G22439	Bovine	1	SB0140	1	public repositories
+SRR5216759	eu1	New Zealand		G22443	Bovine	1	SB0140	1	public repositories
+SRR5216741	eu1	New Zealand		G22461	Bovine	1	SB0140	1	public repositories
+SRR5216740	eu1	New Zealand		G22462	Bovine	1	SB0140	1	public repositories
+SRR5216727	eu1	New Zealand		G22475	Possum	1	SB0140	1	public repositories
+SRR5216724	eu1	New Zealand		G22478	Ferret	1	SB0140	1	public repositories
+SRR5216706	eu1	New Zealand		G22497	Bovine	1	SB0140	1	public repositories
+SRR6467887	eu1	Canada		G36314	Bison bison athabascae	1	SB0130	1	public repositories
+SRR6467891	eu1	Canada		G36316	elk	1	SB0140	1	public repositories
+SRR6467893	eu1	Canada		G36317	Bos taurus	1	SB1071	1	public repositories
+SRR5657361	eu1	Mexico		G36405	Bos taurus	1	SB1758	1	public repositories
+SRR5657376	eu1	Mexico		G36420	Bos taurus	1	SB0145	1	public repositories
+SRR5657393	eu1	Mexico		G36437	Bos taurus	1	SB0145	1	public repositories
+SRR5657394	eu1	Mexico		G36438	Bos taurus	1	SB0140	1	public repositories
+SRR5657395	eu1	Mexico		G36439	Bos taurus	1	SB0145	1	public repositories
+SRR5657410	eu1	Mexico		G36454	Human	1	SB0145	1	public repositories
+SRR5657432	eu1	Mexico		G36476	Bos taurus	1	SB0145	1	public repositories
+SRR5657493	eu1	Mexico		G36537	Bos taurus	1	SB0145	1	public repositories
+SRR5657520	eu1	Mexico		G36564	Bos taurus	1	SB0145	1	public repositories
+SRR5657521	eu1	Mexico		G36565	Bos taurus	1	SB1758	1	public repositories
+ERR1815539	eu1	South Africa		G36575	Syncerus caffer	1	SB0130	1	public repositories
+ERR1815543	eu1	South Africa		G36579	Syncerus caffer	1	SB1755	1	public repositories
+ERR1815544	eu1	South Africa		G36580	Bos taurus	1	SB0130	1	public repositories
+ERR1815548	eu1	South Africa		G36584	Bos taurus	1	SB0267	1	public repositories
+ERR1815550	eu1	South Africa		G36586	Panthera leo	1	SB0130	1	public repositories
+SRR5382721	eu1	Uruguay		G36587	Bos taurus	1	SB0145	1	public repositories
+SRR5430090	eu1	Uruguay		G36588	Bos taurus	1	SB0145	1	public repositories
+SRR5430091	eu1	Uruguay		G36589	Bos taurus	1	SB0274	1	public repositories
+SRR5430098	eu1	Uruguay		G36590	Bos taurus	1	SB0145	1	public repositories
+SRR5430569	eu1	Uruguay		G36591	Bos taurus	1	SB0130	1	public repositories
+SRR5430746	eu1	Uruguay		G36592	Bos taurus	1	SB1072	1	public repositories
+SRR5430747	eu1	Uruguay		G36593	Bos taurus	1	SB0130	1	public repositories
+SRR5430748	eu1	Uruguay		G36594	Bos taurus	1	SB0274	1	public repositories
+SRR5430749	eu1	Uruguay		G36595	Bos taurus	1	SB0274	1	public repositories
+SRR5430750	eu1	Uruguay		G36596	Bos taurus	1	SB0130	1	public repositories
+SRR5431711	eu1	Uruguay		G36597	Bos taurus	1	SB0274	1	public repositories
+SRR5431718	eu1	Uruguay		G36598	Bos taurus	1	SB0130	1	public repositories
+SRR5431719	eu1	Uruguay		G36599	Bos taurus	1	SB0274	1	public repositories
+SRR5431720	eu1	Uruguay		G36600	Bos taurus	1	SB0145	1	public repositories
+SRR5431721	eu1	Uruguay		G36601	Bos taurus	1	SB0274	1	public repositories
+SRR5431730	eu1	Uruguay		G36602	Bos taurus	1	SB1619	1	public repositories
+SRR5431732	eu1	Uruguay		G36603	Bos taurus	1	SB0130	1	public repositories
+SRR5431790	eu1	Uruguay		G36604	Bos taurus	1	SB0130	1	public repositories
+SRR5431791	eu1	Uruguay		G36605	Bos taurus	1	SB0145	1	public repositories
+SRR5431792	eu1	Uruguay		G36606	Bos taurus	1	SB0145	1	public repositories
+SRR5431793	eu1	Uruguay		G36607	Bos taurus	1	SB0274	1	public repositories
+SRR5431795	eu1	Uruguay		G36609	Bos taurus	1	SB0274	1	public repositories
+ERR125612	eu1	Ireland		G36624		1	SB0140	1	public repositories
+SRR6045827	eu1	United Kingdom		G36705	Homo sapiens	0	SB0263	1	public repositories
+ERR2512570	eu1	United Kingdom		G36706		0	SB0263	1	public repositories
+ERR2512647	eu1	United Kingdom		G36707		0	SB0263	1	public repositories
+ERR2512732	eu1	United Kingdom		G36710		0	SB0129	1	public repositories
+ERR2512755	eu1	United Kingdom		G36711		0	New pattern	1	public repositories
+ERR2512838	eu1	United Kingdom		G36712		0	SB0130	1	public repositories
+ERR2512954	eu1	United Kingdom		G36717		0	SB0129	1	public repositories
+ERR2512962	eu1	United Kingdom		G36718		0	SB0129	1	public repositories
+ERR2513034	eu1	United Kingdom		G36719		0	New pattern	1	public repositories
+ERR2513138	eu1	United Kingdom		G36720		0	SB0140	1	public repositories
+ERR2513194	eu1	United Kingdom		G36721		0	SB0263	1	public repositories
+ERR2513433	eu1	United Kingdom		G36724		0	SB0129	1	public repositories
+ERR2513607	eu1	United Kingdom		G36725		0	SB0140	1	public repositories
+ERR2513811	eu1	United Kingdom		G36727		0	SB0263	1	public repositories
+ERR2514144	eu1	United Kingdom		G36729		0	SB0673	1	public repositories
+ERR2514191	eu1	United Kingdom		G36730		0	SB0129	1	public repositories
+SRR6045214	eu1	United Kingdom		G36731	Homo sapiens	0	SB0263	1	public repositories
+ERR2514285	eu1	United Kingdom		G36732		0	SB0129	1	public repositories
+ERR2514352	eu1	United Kingdom		G36733		0	SB0272	1	public repositories
+SRR6045235	eu1	United Kingdom		G36734	Homo sapiens	0	SB0267	1	public repositories
+ERR2514545	eu1	United Kingdom		G36735		0	SB0140	1	public repositories
+ERR2514583	eu1	United Kingdom		G36736		0	SB0129	1	public repositories
+ERR2514837	eu1	United Kingdom		G36737		0	New pattern	1	public repositories
+ERR2514955	eu1	United Kingdom		G36738		0	New pattern	1	public repositories
+ERR2815609	eu1	Germany		G36802	racoon	0	SB0141	0	public repositories
+SRR1791700	eu1	Mexico		G36907	Cattle	1	SB1499	1	public repositories
+SRR1791703	eu1	Mexico		G36910	Cattle	1	SB0673	1	public repositories
+SRR1791707	eu1	USA		G36914	Jaguar	1	SB0140	1	public repositories
+SRR1791728	eu1	Mexico		G36935	Cattle	1	SB0140	1	public repositories
+SRR1791737	eu1	Mexico		G36944	Cattle	1	SB0140	1	public repositories
+SRR1791751	eu1	Mexico		G36958	Cattle	1	SB0145	1	public repositories
+SRR1791752	eu1	Mexico		G36959	Cattle	1	New pattern	1	public repositories
+SRR1791762	eu1	Mexico		G36969	Cattle	1	SB0140	1	public repositories
+SRR1791763	eu1	Mexico		G36970	Cattle	1	New pattern	1	public repositories
+SRR1791766	eu1	Mexico		G36973	Cattle	1	SB0307	1	public repositories
+SRR1791770	eu1	Mexico		G36977	Cattle	1	SB0130	1	public repositories
+SRR1791773	eu1	Mexico		G36980	Cattle	1	SB0140	1	public repositories
+SRR1791777	eu1	Mexico		G36984	Cattle	1	SB0943	1	public repositories
+SRR1791784	eu1	USA		G36991	Cattle	1	SB1071	1	public repositories
+SRR1791785	eu1	Mexico		G36992	Cattle	1	SB0140	1	public repositories
+SRR1791792	eu1	Mexico		G36999	Cattle	1	SB0140	1	public repositories
+SRR1791801	eu1	Mexico		G37008	Cattle	1	SB2020	1	public repositories
+SRR1791809	eu1	Mexico		G37016	Cattle	1	SB0140	1	public repositories
+SRR1791816	eu1	Mexico		G37023	Cattle	1	SB2020	1	public repositories
+SRR1791822	eu1	Mexico		G37029	Cattle	1	SB0140	1	public repositories
+SRR1791826	eu1	Mexico		G37033	Cattle	1	SB0140	1	public repositories
+SRR1791829	eu1	Mexico		G37036	Cattle	1	SB0140	1	public repositories
+SRR1791834	eu1	Mexico		G37041	Cattle	1	SB1499	1	public repositories
+SRR1791861	eu1	Mexico		G37068	Cattle	1	SB0140	1	public repositories
+SRR1791864	eu1	Mexico		G37071	Cattle	1	SB0140	1	public repositories
+SRR1791871	eu1	Mexico		G37078	Cattle	1	SB0130	1	public repositories
+SRR1791881	eu1	USA		G37088	Cattle	1	SB0140	1	public repositories
+SRR1791883	eu1	Mexico		G37090	Cattle	1	SB0140	1	public repositories
+SRR1791889	eu1	USA		G37096	Sus scrofa	1	SB0145	1	public repositories
+SRR1791894	eu1	USA		G37101	Cattle	1	SB0145	1	public repositories
+SRR1791911	eu1	USA		G37118	Cattle	1	SB1758	1	public repositories
+SRR1791937	eu1	Mexico		G37144	Cattle	1	SB0269	1	public repositories
+SRR1791942	eu1	Mexico		G37149	Cattle	1	SB1499	1	public repositories
+SRR1791947	eu1	USA		G37154	Cattle	1	SB0271	1	public repositories
+SRR1791952	eu1	Mexico		G37159	Cattle	1	SB0971	1	public repositories
+SRR1791953	eu1	Mexico		G37160	Cattle	1	SB0673	1	public repositories
+SRR1791958	eu1	Mexico		G37165	Cattle	1	SB0140	1	public repositories
+SRR1791970	eu1	Mexico		G37177	Cattle	1	SB0140	1	public repositories
+SRR1791975	eu1	Mexico		G37182	Cattle	1	SB0140	1	public repositories
+SRR1791977	eu1	Mexico		G37184	Cattle	1	SB0140	1	public repositories
+SRR1791985	eu1	USA		G37192	Cattle	1	SB0271	1	public repositories
+SRR1791987	eu1	Mexico		G37194	Cattle	1	SB0140	1	public repositories
+SRR1791988	eu1	Mexico		G37195	Cattle	1	SB1754	1	public repositories
+SRR1791998	eu1	Mexico		G37205	Cattle	1	SB0140	1	public repositories
+SRR1792009	eu1	USA		G37216	Cervid	1	SB0271	1	public repositories
+SRR1792014	eu1	USA		G37221	Sus scrofa	1	SB0145	1	public repositories
+SRR1792043	eu1	USA		G37250	Cervid	1	SB0271	1	public repositories
+SRR1792044	eu1	USA		G37251	Cervid	1	SB0271	1	public repositories
+SRR1792051	eu1	USA		G37258	Cattle	1	SB0140	1	public repositories
+SRR1792060	eu1	USA		G37267	Cattle	1	SB0140	1	public repositories
+SRR1792066	eu1	Mexico		G37273	Cattle	1	SB0140	1	public repositories
+SRR1792067	eu1	USA		G37274	Cervid	1	SB0271	1	public repositories
+SRR1792076	eu1	USA		G37283	Cervid	1	SB0271	1	public repositories
+SRR1792090	eu1	USA		G37297	Cattle	1	SB0271	1	public repositories
+SRR1792103	eu1	USA		G37310	Cervid	1	SB0271	1	public repositories
+SRR1792107	eu1	USA		G37314	Sus scrofa	1	SB0145	1	public repositories
+SRR1792114	eu1	USA		G37321	Cattle	1	SB0271	1	public repositories
+SRR1792124	eu1	USA		G37331	Cervid	1	SB0271	1	public repositories
+SRR1792146	eu1	USA		G37353	Sus scrofa	1	SB0145	1	public repositories
+SRR1792152	eu1	USA		G37359	Sus scrofa	1	SB0145	1	public repositories
+SRR1792172	eu1	Mexico		G37379	Cattle	1	SB1348	1	public repositories
+SRR1792176	eu1	USA		G37383	Cattle	1	SB1758	1	public repositories
+SRR1792178	eu1	USA		G37385	Cattle	1	SB0271	1	public repositories
+SRR1792179	eu1	USA		G37386	Cattle	1	SB0271	1	public repositories
+SRR1792279	eu1	Mexico		G37486	Cattle	1	SB0267	1	public repositories
+SRR1792281	eu1	Mexico		G37488	Cattle	1	SB0140	1	public repositories
+SRR1792339	eu1	USA		G37546	Cattle	1	SB0271	1	public repositories
+SRR1792349	eu1	Mexico		G37556	Cattle	1	SB0673	1	public repositories
+SRR1792350	eu1	USA		G37557	Felis catus	1	SB0145	1	public repositories
+SRR1792358	eu1	Mexico		G37565	Cattle	1	SB0140	1	public repositories
+SRR1792372	eu1	Mexico		G37579	Cattle	1	New pattern	1	public repositories
+SRR1792429	eu1	USA		G37636	Cattle	1	SB0271	1	public repositories
+SRR1792438	eu1	Mexico		G37645	Cattle	1	SB0130	1	public repositories
+SRR1792441	eu1	Mexico		G37648	Cattle	1	SB0145	1	public repositories
+SRR1792487	eu1	USA		G37694	Cattle	1	SB0130	1	public repositories
+SRR1792494	eu1	USA		G37701	Cattle	1	SB0145	1	public repositories
+SRR4019490	eu1	USA		G37784	Homo sapiens	0	SB0145	1	public repositories
+SRR1657061	eu1	Costa Rica		G38449	cow	1	SB1041	1	public repositories
+SRR1657070	eu1	Panama		G38453	cow	1	SB0145	1	public repositories
+SRR7236106	eu1	Mexico		G41169	Bos taurus	1	SB0140	1	public repositories
+SRR7236111	eu1	Mexico		G41174	Bos taurus	1	SB0140	1	public repositories
+SRR7236140	eu1	Mexico		G41203	Bos taurus	1	SB0140	1	public repositories
+SRR7236142	eu1	Mexico		G41205	Bos taurus	1	SB0140	1	public repositories
+SRR7236143	eu1	Mexico		G41206	Bos taurus	1	SB0140	1	public repositories
+SRR7236144	eu1	Mexico		G41207	Bos taurus	1	SB0140	1	public repositories
+SRR7236148	eu1	Mexico		G41211	Bos taurus	1	SB0140	1	public repositories
+SRR7236150	eu1	Mexico		G41213	Bos taurus	1	SB0140	1	public repositories
+SRR7236154	eu1	Mexico		G41217	Bos taurus	1	New pattern	1	public repositories
+SRR7236155	eu1	Mexico		G41218	Bos taurus	1	SB0140	1	public repositories
+SRR7236164	eu1	Mexico		G41227	Bos taurus	1	SB0140	1	public repositories
+SRR7236174	eu1	Mexico		G41237	Bos taurus	1	SB0140	1	public repositories
+SRR7236183	eu1	Mexico		G41246	Bos taurus	1	SB0140	1	public repositories
+SRR7236188	eu1	Mexico		G41251	Bos taurus	1	SB0140	1	public repositories
+SRR7236190	eu1	Mexico		G41253	Bos taurus	1	SB0140	1	public repositories
+SRR7236195	eu1	Mexico		G41258	Bos taurus	1	SB0145	1	public repositories
+SRR7236225	eu1	Mexico		G41288	Bos taurus	1	SB0130	1	public repositories
+SRR7236234	eu1	Mexico		G41297	Bos taurus	1	SB0145	1	public repositories
+SRR7236249	eu1	Mexico		G41312	Bos taurus	1	SB0140	1	public repositories
+SRR7236252	eu1	Mexico		G41315	Bos taurus	1	SB0131	1	public repositories
+SRR7236262	eu1	Mexico		G41325	Bos taurus	1	SB0140	1	public repositories
+SRR7236271	eu1	Mexico		G41334	Bos taurus	1	SB0140	1	public repositories
+SRR7236275	eu1	Mexico		G41338	Bos taurus	1	SB0140	1	public repositories
+SRR7236279	eu1	Mexico		G41342	Bos taurus	1	SB0140	1	public repositories
+SRR7236287	eu1	Mexico		G41350	Bos taurus	1	SB0145	1	public repositories
+SRR7236293	eu1	Mexico		G41356	Bos taurus	1	SB0140	1	public repositories
+SRR7236303	eu1	Mexico		G41366	Bos taurus	1	SB0289	1	public repositories
+SRR7236324	eu1	Mexico		G41387	Bos taurus	1	SB0140	1	public repositories
+SRR7236330	eu1	Mexico		G41393	Bos taurus	1	SB0140	1	public repositories
+SRR7236331	eu1	Mexico		G41394	Bos taurus	1	SB0140	1	public repositories
+SRR7236349	eu1	Mexico		G41412	Bos taurus	1	SB0327	1	public repositories
+SRR7236350	eu1	Mexico		G41413	Bos taurus	1	SB0145	1	public repositories
+SRR7236354	eu1	Mexico		G41417	Bos taurus	1	SB0130	1	public repositories
+SRR7236357	eu1	Mexico		G41420	Bos taurus	1	SB0139	1	public repositories
+SRR7236376	eu1	Mexico		G41439	Bos taurus	1	SB0140	1	public repositories
+SRR7236393	eu1	Mexico		G41456	Bos taurus	1	SB1758	1	public repositories
+SRR7236394	eu1	Mexico		G41457	Bos taurus	1	SB0140	1	public repositories
+SRR7236397	eu1	Mexico		G41460	Bos taurus	1	SB1754	1	public repositories
+SRR7236403	eu1	Mexico		G41466	Bos taurus	1	SB0140	1	public repositories
+SRR7236404	eu1	Mexico		G41467	Bos taurus	1	SB0140	1	public repositories
+SRR7236413	eu1	Mexico		G41476	Bos taurus	1	SB0275	1	public repositories
+SRR7236415	eu1	Mexico		G41478	Bos taurus	1	SB0140	1	public repositories
+SRR7236417	eu1	Mexico		G41480	Bos taurus	1	SB0140	1	public repositories
+SRR7236418	eu1	Mexico		G41481	Bos taurus	1	New pattern	1	public repositories
+SRR7236421	eu1	Mexico		G41484	Bos taurus	1	SB0140	1	public repositories
+SRR7236424	eu1	Mexico		G41487	Bos taurus	1	SB0140	1	public repositories
+SRR7617392	eu1	New Zealand		G41568	Cervine	1	SB0140	1	public repositories
+SRR7617394	eu1	New Zealand		G41570	Cervine	1	SB0140	1	public repositories
+SRR7617396	eu1	New Zealand		G41572	Bovine	1	SB0140	1	public repositories
+SRR7617409	eu1	New Zealand		G41585	Possum	1	SB0130	1	public repositories
+SRR7617439	eu1	New Zealand		G41615	Bovine	1	SB0140	1	public repositories
+SRR7617441	eu1	United Kingdom		G41617	Bovine	1	SB0268	1	public repositories
+SRR7617442	eu1	New Zealand		G41618	Bovine	1	SB0140	1	public repositories
+SRR7617446	eu1	New Zealand		G41622	Bovine	1	SB0140	1	public repositories
+SRR7617510	eu1	New Zealand		G41686	Possum	1	SB0140	1	public repositories
+SRR7617514	eu1	New Zealand		G41690	Ferret	1	SB0140	1	public repositories
+SRR7617515	eu1	New Zealand		G41691	Ferret	1	SB0140	1	public repositories
+SRR7617517	eu1	New Zealand		G41693	Possum	1	SB0140	1	public repositories
+SRR7617526	eu1	New Zealand		G41702	Possum	1	SB0140	1	public repositories
+SRR7617588	eu1	New Zealand		G41764	Pig	1	SB0130	1	public repositories
+SRR7617596	eu1	New Zealand		G41772	Cervine	1	SB0130	1	public repositories
+SRR7617599	eu1	New Zealand		G41775	Cervine	1	SB0140	1	public repositories
+SRR7617634	eu1	New Zealand		G41810	Pig	1	SB0130	1	public repositories
+SRR7617639	eu1	New Zealand		G41815	Ferret	1	SB0130	1	public repositories
+SRR7617660	eu1	New Zealand		G41836	Bovine	1	SB0140	1	public repositories
+SRR7617666	eu1	New Zealand		G41842	Ferret	1	SB0140	1	public repositories
+SRR7617681	eu1	New Zealand		G41857	Ferret	1	SB0140	1	public repositories
+SRR7617682	eu1	New Zealand		G41858	Bovine	1	SB0140	1	public repositories
+SRR7617710	eu1	New Zealand		G41886	Homo sapiens	0	SB0673	1	public repositories
+SRR7617711	eu1	New Zealand		G41887	Bovine	1	SB1031	1	public repositories
+SRR7617761	eu1	New Zealand		G41937	Ferret	1	SB0140	1	public repositories
+SRR7617812	eu1	New Zealand		G41988	Bovine	1	SB1897	1	public repositories
+SRR7617827	eu1	New Zealand		G42003	Pig	1	SB0130	1	public repositories
+SRR7617828	eu1	New Zealand		G42004	Bovine	1	SB0140	1	public repositories
+SRR7617836	eu1	New Zealand		G42012	Bovine	1	SB0140	1	public repositories
+SRR6045019	eu1	United Kingdom		G42045	Homo sapiens	0	SB0267	1	public repositories
+SRR8073610	eu1	USA		G42077	Deer	1	SB0145	1	public repositories
+SRR7851305	eu1	France		G47578		1	SB0140	0	public repositories
+SRR7851314	eu1	France		G47587		1	SB0130	0	public repositories
+SRR7851320	eu1	France		G47593		1	SB0145	0	public repositories
+SRR7851341	eu1	France		G47614		1	SB0140	0	public repositories
+SRR7851351	eu1	France		G47624		1	SB0140	0	public repositories
+SRR7851364	eu1	France		G47637		1	SB0140	0	public repositories
+SRR7851305	eu1	France		G49365		1	SB0140	0	public repositories
+SRR10808421	eu1	Indonesia		G62291		1	SB0130	0	public repositories
+ERR550954	eu2	Germany		G13311		0	SB0339	1	public repositories
+SRR6467889	eu2	Canada		G36315	Bos taurus	1	SB0265	1	public repositories
+SRR6705904	eu2	Brazil		G36401	Bovine	1	SB0121	1	public repositories
+SRR5657358	eu2	Mexico		G36402	Bos taurus	1	SB1345	1	public repositories
+SRR5657359	eu2	Mexico		G36403	Bos taurus	1	SB1345	1	public repositories
+SRR5657512	eu2	Mexico		G36556	Bos taurus	1	SB2469	1	public repositories
+SRR5657513	eu2	Mexico		G36557	Bos taurus	1	SB1345	1	public repositories
+ERR1815538	eu2	South Africa		G36574	Panthera leo	1	SB0121	1	public repositories
+ERR1815540	eu2	South Africa		G36576	Tragelaphus strepsiceros	1	SB0121	1	public repositories
+ERR1815541	eu2	South Africa		G36577	Syncerus caffer	1	SB0121	1	public repositories
+ERR1815542	eu2	South Africa		G36578	Syncerus caffer	1	SB0121	1	public repositories
+ERR1815545	eu2	South Africa		G36581	Syncerus caffer	1	SB0121	1	public repositories
+ERR1815546	eu2	South Africa		G36582	Syncerus caffer	1	SB0121	1	public repositories
+ERR1815547	eu2	South Africa		G36583	Syncerus caffer	1	SB0121	1	public repositories
+ERR1815549	eu2	South Africa		G36585	Panthera leo	1	SB0121	1	public repositories
+ERR2516545	eu2	Netherlands		G36703		0	New pattern	1	public repositories
+ERR2199797	eu2	Germany		G36704		0	SB0265	1	public repositories
+ERR2516207	eu2	Belgium		G36741		0	New pattern	1	public repositories
+ERR2516335	eu2	Belgium		G36743		0	SB0265	1	public repositories
+ERR2517408	eu2	Netherlands		G36750		0	SB2179	1	public repositories
+ERR2517616	eu2	Netherlands		G36752		0	SB1947	1	public repositories
+ERR2517518	eu2	Netherlands		G36753		0	SB0121	1	public repositories
+ERR2517443	eu2	Netherlands		G36754		0	SB0121	1	public repositories
+ERR2517349	eu2	Netherlands		G36755		0	New pattern	1	public repositories
+ERR2517523	eu2	Netherlands		G36756		0	SB0121	1	public repositories
+ERR2517227	eu2	Netherlands		G36757		0	SB0121	1	public repositories
+ERR2515455	eu2	South Africa		G36758		0	SB0121	1	public repositories
+ERR2815614	eu2	Germany		G36797	cattle	0	SB0944	0	public repositories
+ERR2815608	eu2	Germany		G36803	cattle	0	SB1275	0	public repositories
+ERR2815606	eu2	Germany		G36805	cattle	0	SB0121	0	public repositories
+ERR2815605	eu2	Germany		G36806	wild boar	0	SB0295	0	public repositories
+ERR2815604	eu2	Germany		G36807	wild boar	0	SB0295	0	public repositories
+ERR2815601	eu2	Germany		G36810	pig	0	SB1021	0	public repositories
+ERR2815600	eu2	Germany		G36811	pig	0	SB1021	0	public repositories
+ERR2815537	eu2	Germany		G36871	cattle	0	SB0121	0	public repositories
+ERR2815511	eu2	Germany		G36893	cat	0	SB1021	0	public repositories
+ERR2815509	eu2	Germany		G36895	cattle	0	SB0121	0	public repositories
+ERR2815508	eu2	Germany		G36896	cattle	0	SB0121	0	public repositories
+ERR2815507	eu2	Germany		G36897	zebu	0	SB1021	0	public repositories
+SRR1791708	eu2	USA		G36915	Cattle	1	SB0265	1	public repositories
+SRR1791722	eu2	Mexico		G36929	Cattle	1	SB0121	1	public repositories
+SRR1791736	eu2	USA		G36943	Cattle	1	SB0121	1	public repositories
+SRR1791793	eu2	USA		G37000	Cattle	1	SB0121	1	public repositories
+SRR1791797	eu2	Mexico		G37004	Cattle	1	SB0121	1	public repositories
+SRR1791802	eu2	Mexico		G37009	Cattle	1	SB0121	1	public repositories
+SRR1791804	eu2	Mexico		G37011	Cattle	1	SB0121	1	public repositories
+SRR1791824	eu2	Mexico		G37031	Cattle	1	SB0121	1	public repositories
+SRR1791832	eu2	USA		G37039	Cervid	1	SB0265	1	public repositories
+SRR1791841	eu2	USA		G37048	Cattle	1	SB0121	1	public repositories
+SRR1791866	eu2	USA		G37073	Cattle	1	SB1345	1	public repositories
+SRR1791876	eu2	USA		G37083	Cattle	1	SB1345	1	public repositories
+SRR1791880	eu2	USA		G37087	Cattle	1	SB1345	1	public repositories
+SRR1791891	eu2	Mexico		G37098	Cattle	1	SB0121	1	public repositories
+SRR1791909	eu2	Mexico		G37116	Cattle	1	SB0121	1	public repositories
+SRR1791950	eu2	USA		G37157	Cervid	1	SB0121	1	public repositories
+SRR1791959	eu2	Mexico		G37166	Cattle	1	SB0121	1	public repositories
+SRR1791960	eu2	Mexico		G37167	Cattle	1	SB0121	1	public repositories
+SRR1791969	eu2	Mexico		G37176	Cattle	1	SB0121	1	public repositories
+SRR1792002	eu2	USA		G37209	Cattle	1	SB0265	1	public repositories
+SRR1792005	eu2	Mexico		G37212	Cattle	1	SB0121	1	public repositories
+SRR1792027	eu2	Mexico		G37234	Cattle	1	SB0121	1	public repositories
+SRR1792041	eu2	Mexico		G37248	Cattle	1	SB0121	1	public repositories
+SRR1792068	eu2	USA		G37275	Cattle	1	SB0152	1	public repositories
+SRR1792073	eu2	Mexico		G37280	Cattle	1	SB0152	1	public repositories
+SRR1792110	eu2	USA		G37317	Cattle	1	SB0121	1	public repositories
+SRR1792118	eu2	Mexico		G37325	Cattle	1	SB0121	1	public repositories
+SRR1792122	eu2	USA		G37329	Cattle	1	SB0121	1	public repositories
+SRR1792155	eu2	Mexico		G37362	Cattle	1	SB0121	1	public repositories
+SRR1792171	eu2	Mexico		G37378	Cattle	1	SB0121	1	public repositories
+SRR1792193	eu2	USA		G37400	Cattle	1	SB0121	1	public repositories
+SRR1792204	eu2	USA		G37411	Cattle	1	SB0121	1	public repositories
+SRR1792245	eu2	Mexico		G37452	Cattle	1	SB0121	1	public repositories
+SRR1792410	eu2	Mexico		G37617	Cattle	1	SB0121	1	public repositories
+SRR1792445	eu2	Mexico		G37652	Cattle	1	SB0121	1	public repositories
+SRR1792449	eu2	Mexico		G37656	Cattle	1	SB0121	1	public repositories
+SRR1792477	eu2	USA		G37684	Cattle	1	SB0121	1	public repositories
+SRR1792490	eu2	USA		G37697	Cattle	1	SB0121	1	public repositories
+SRR1792491	eu2	USA		G37698	Cattle	1	SB0121	1	public repositories
+SRR1792502	eu2	USA		G37709	Cattle	1	SB0121	1	public repositories
+SRR6865435	eu2	Brazil		G38457	Lama glama	1	SB0295	1	public repositories
+SRR7236129	eu2	Mexico		G41192	Bos taurus	1	SB0121	1	public repositories
+SRR7236131	eu2	Mexico		G41194	Bos taurus	1	SB0152	1	public repositories
+SRR7236145	eu2	Mexico		G41208	Bos taurus	1	SB0121	1	public repositories
+SRR7236149	eu2	Mexico		G41212	Bos taurus	1	SB0121	1	public repositories
+SRR7236192	eu2	Mexico		G41255	Bos taurus	1	SB0295	1	public repositories
+SRR7236193	eu2	Mexico		G41256	Bos taurus	1	New pattern	1	public repositories
+SRR7236231	eu2	Mexico		G41294	Bos taurus	1	SB0121	1	public repositories
+SRR7236232	eu2	Mexico		G41295	Bos taurus	1	SB0121	1	public repositories
+SRR7236253	eu2	Mexico		G41316	Bos taurus	1	SB0121	1	public repositories
+SRR7236264	eu2	Mexico		G41327	Bos taurus	1	SB0121	1	public repositories
+SRR7236269	eu2	Mexico		G41332	Bos taurus	1	SB0121	1	public repositories
+SRR7236344	eu2	Mexico		G41407	Bos taurus	1	SB0121	1	public repositories
+SRR7236345	eu2	Mexico		G41408	Bos taurus	1	SB0121	1	public repositories
+SRR7236378	eu2	Mexico		G41441	Bos taurus	1	SB0121	1	public repositories
+SRR7236380	eu2	Mexico		G41443	Bos taurus	1	SB0121	1	public repositories
+SRR7236387	eu2	Mexico		G41450	Bos taurus	1	SB0121	1	public repositories
+ERR2851361	eu2	Lebanon	Lebanon	G42136	Human	1	SB0121	1	public repositories
+SRR7851300	eu2	France		G47573		1	SB0837	0	public repositories
+SRR7851301	eu2	France		G47574		1	SB0339	0	public repositories
+SRR7851303	eu2	France		G47576		1	SB0152	0	public repositories
+SRR7851308	eu2	France		G47581		1	SB0121	0	public repositories
+SRR7851310	eu2	France		G47583		1	SB0999	0	public repositories
+SRR7851318	eu2	France		G47591		1	SB0121	0	public repositories
+SRR7851319	eu2	France		G47592		1	SB0121	0	public repositories
+SRR7851332	eu2	France		G47605		1	SB0121	0	public repositories
+SRR7851335	eu2	France		G47608		1	SB0121	0	public repositories
+SRR7851343	eu2	France		G47616		1	SB0339	0	public repositories
+SRR7851349	eu2	France		G47622		1	SB0121	0	public repositories
+SRR7851357	eu2	France		G47630		1	SB0121	0	public repositories
+SRR7851358	eu2	France		G47631		1	SB0121	0	public repositories
+SRR7851363	eu2	France		G47636		1	SB0121	0	public repositories
+SRR7851380	eu2	France		G47653		1	SB0999	0	public repositories
+SRR7851382	eu2	France		G47655		1	SB0295	0	public repositories
+SRR7851303	eu2	France		G49367		1	SB0152	0	public repositories
+SRR7851300	eu2	France		G49368		1	SB0837	0	public repositories
+SRR7851301	eu2	France		G49369		1	SB0339	0	public repositories
+SRR9850824	eu2	Brazil		G49370	captive capybara	0	SB0295	0	public repositories
+SRR9850830	eu2	Brazil		G49371	captive Lama glama	0	SB0295	0	public repositories
+SRR7693912	eu2	Brazil		G66750	captive European Bison	0	SB0121	0	public repositories
+ERR1082113	L6	Ghana		G08466		NA		0	public repositories
+ERR015582	orygis			G00130	orygis	0	SB0422	0	public repositories
+ERR2659153	orygis	Australia	India	G01224	Human	1	SB0422	0	public repositories
+ERR2659154	orygis	Australia	India	G01225	Human	1	SB0422	0	public repositories
+ERR2659155	orygis	Australia	India	G01226	Human	1	SB0422	0	public repositories
+ERR2659156	orygis	Australia	India	G01227	Human	1	SB0422	0	public repositories
+ERR234675	orygis	Russia		G04149		0	SB0422	0	public repositories
+ERR234676	orygis	Russia		G04150		0	New pattern	0	public repositories
+ERR234682	orygis	Russia		G04151		0	New pattern	0	public repositories
+ERR017782	orygis	United Kingdom		G04156		0	SB0422	0	public repositories
+SRR2100577	orygis	United Kingdom		G14722		0	SB0422	0	public repositories
+SRR2101161	orygis	United Kingdom		G15298		0	SB0422	0	public repositories
+SRR2101222	orygis	United Kingdom		G15359		0	New pattern	0	public repositories
+SRR2101291	orygis	United Kingdom		G15428		0	SB0422	0	public repositories
+SRR2101329	orygis	United Kingdom		G15466		0	SB0422	0	public repositories
+SRR5642711	orygis	USA	India	G22513	Human	1	SB0422	0	public repositories
+SRR5642712	orygis	USA	India	G22514	Human	1	SB0422	0	public repositories
+SRR5642713	orygis	USA	India	G22515	Human	1	SB0422	0	public repositories
+SRR5642714	orygis	USA	India	G22516	Human	1	SB0422	0	public repositories
+SRR5642715	orygis	USA	India	G22517	Human	1	New pattern	0	public repositories
+SRR5642716	orygis	USA	India	G22518	Human	1	SB0422	0	public repositories
+SRR5642717	orygis	USA	India	G22519	Human	1	SB0422	0	public repositories
+SRR5642718	orygis	USA	India	G22520	Human	1	SB0422	0	public repositories
+	orygis	South Africa		G26559	antelope zoo 	0	SB0422	0	newly sequenced
+	orygis	Netherlands		G26560	Oryx zoo	0	SB0422	0	newly sequenced
+	orygis	Netherlands		G26561	antilope zoo	0	SB0422	0	newly sequenced
+	orygis			G26562		0	SB0422	0	newly sequenced
+	orygis	South Asia		G26563	human 	0	SB0422	0	newly sequenced
+	orygis	Netherlands		G26564	waterbuck zoo 	0	SB0422	0	newly sequenced
+	orygis	South Asia		G26565	human 	0	SB0422	0	newly sequenced
+	orygis	South Asia		G26566	human 	0	SB0422	0	newly sequenced
+	orygis	Southeast Asia		G26567	human 	0	New pattern	0	newly sequenced
+	orygis	South Asia		G26568	human 	0	SB0422	0	newly sequenced
+	orygis	South Asia		G26569	human 	0	SB0422	0	newly sequenced
+	orygis			G26570		0	SB0422	0	newly sequenced
+	orygis	South Asia		G26571	human	0	SB0422	0	newly sequenced
+	orygis			G26572		0	New pattern	0	newly sequenced
+SRR6797355	orygis	Bangladesh		G28351		0	SB0422	0	public repositories
+SRR6045015	orygis	United Kingdom		G36763		0	SB0422	0	public repositories
+ERR2512389	orygis	United Kingdom		G36764		0	SB0422	0	public repositories
+ERR2512788	orygis	United Kingdom		G36765		0	SB0422	0	public repositories
+ERR2512826	orygis	United Kingdom		G36766		0	SB0422	0	public repositories
+ERR2512859	orygis	United Kingdom		G36767		0	New pattern	0	public repositories
+ERR2512942	orygis	United Kingdom		G36768		0	New pattern	0	public repositories
+SRR6044858	orygis	United Kingdom		G36769		0	New pattern	0	public repositories
+SRR6046695	orygis	United Kingdom		G36770		0	SB0422	0	public repositories
+ERR2513195	orygis	United Kingdom		G36771		0	SB0422	0	public repositories
+SRR6045425	orygis	United Kingdom		G36772		0	New pattern	0	public repositories
+ERR2513625	orygis	United Kingdom		G36773		0	SB0422	0	public repositories
+ERR2513671	orygis	United Kingdom		G36774		0	New pattern	0	public repositories
+SRR3675498	orygis	United Kingdom		G36775		0	New pattern	0	public repositories
+ERR2514172	orygis	United Kingdom		G36776		0	SB0422	0	public repositories
+SRR6045962	orygis	United Kingdom		G36778		0	SB0422	0	public repositories
+SRR6044939	orygis	United Kingdom		G36779		0	SB0422	0	public repositories
+SRR6045301	orygis	United Kingdom		G36781		0	SB0422	0	public repositories
+ERR2514578	orygis	United Kingdom		G36782		0	SB0422	0	public repositories
+SRR6046725	orygis	United Kingdom		G36783		0	SB0422	0	public repositories
+ERR2514738	orygis	United Kingdom		G36784		0	SB0422	0	public repositories
+ERR2514957	orygis	United Kingdom		G36785		0	SB0422	0	public repositories
+SRR6046235	orygis	United Kingdom		G36786		0	SB0422	0	public repositories
+ERR2515051	orygis	United Kingdom		G36787		0	New pattern	0	public repositories
+ERR2512533	orygis	United Kingdom		G36788		0	New pattern	0	public repositories
+ERR2199741	orygis	Germany		G36789		0	New pattern	0	public repositories
+ERR2199829	orygis	Germany		G36790		0	New pattern	0	public repositories
+ERR2200114	orygis	Germany		G36791		0	SB0422	0	public repositories
+ERR2517102	orygis	United Kingdom		G36792		0	SB0422	0	public repositories
+ERR2517593	orygis	Netherlands		G36793		0	New pattern	0	public repositories
+SRR9157804	orygis	India		G49362	Bos taurus	1	SB0422	0	public repositories
+SRR10251193	orygis	India		G49372	Bos taurus	1	New pattern	0	public repositories
+SRR10251194	orygis	India		G49373	Bos taurus	1	New pattern	0	public repositories
+SRR10251195	orygis	India		G49374	Deer	1	New pattern	0	public repositories
+SRR10251196	orygis	India		G49375	Deer	1	New pattern	0	public repositories
+SRR10251197	orygis	India		G49376	Bos taurus	1	SB0422	0	public repositories
+SRR10251198	orygis	India		G49377	Deer	1	New pattern	0	public repositories
+SRR10251199	orygis	India		G49378	Deer	1	New pattern	0	public repositories
+SRR10251200	orygis	India		G49379	Bos taurus	1	SB0422	0	public repositories
+SRR10251201	orygis	India		G49380	Bos taurus	1	New pattern	0	public repositories
+SRR10251185	orygis	India		G49381	Bos taurus	1	SB0422	0	public repositories
+SRR10251186	orygis	India		G49382	Bos taurus	1	New pattern	0	public repositories
+SRR10251187	orygis	India		G49383	Bos taurus	1	New pattern	0	public repositories
+SRR10251188	orygis	India		G49384	Bos taurus	1	New pattern	0	public repositories
+SRR10251189	orygis	India		G49385	Bos taurus	1	SB0422	0	public repositories
+SRR10251190	orygis	India		G49386	Bos taurus	1	SB0422	0	public repositories
+SRR10251191	orygis	India		G49387	Bos taurus	1	SB0422	0	public repositories
+SRR10251192	orygis	India		G49388	Bos taurus	1	SB0422	0	public repositories
+SRR10251202	orygis	India		G49389	Deer	1	New pattern	0	public repositories
+SRR10251203	orygis	India		G49390	Bos taurus	1	New pattern	0	public repositories
+SRR10321143	orygis	India		G49401	Human	1	SB0422	0	public repositories
+SRR10321149	orygis	India		G49402	Human	1	SB0422	0	public repositories
+SRR10321128	orygis	India		G49403	Human	1	SB0422	0	public repositories
+SRR10321130	orygis	India		G49404	Human	1	SB0422	0	public repositories
+SRR10321134	orygis	India		G49405	Human	1	SB0422	0	public repositories
+ERR161044	PZA_sus	Malawi		G04143		0	New pattern	1	public repositories
+ERR181980	PZA_sus	Malawi		G04145		0	SB2190	1	public repositories
+ERR212091	PZA_sus	Malawi		G04147	Human	1	SB0425	1	public repositories
+ERR2815611	PZA_sus	Germany		G36800	antelope	0	SB1898	0	public repositories
+SRR8065072	PZA_sus	Uganda		G41493	Bos taurus	1	SB1405	1	public repositories
+SRR8065075	PZA_sus	Uganda		G41496	Bos taurus	1	SB1406	1	public repositories
+SRR8065076	PZA_sus	Uganda		G41497	Bos taurus	1	SB1405	1	public repositories
+SRR8065077	PZA_sus	Uganda		G41498	Bos taurus	1	SB1406	1	public repositories
+SRR8065083	PZA_sus	Uganda		G41504	Bos taurus	1	SB1405	1	public repositories
+ERR3458083	unk2	Ethiopia		G00208	Cattle	1	SB0134	1	public repositories
+SAMN03023955	unk2			G01032	BCG	0	New pattern	1	public repositories
+SRS897753	unk2	United Kingdom		G01033	BCG	0	SB0120	1	public repositories
+SRS897754	unk2			G01034	BCG	0	SB0120	1	public repositories
+SAMN03023958	unk2			G01035	BCG	0	SB0120	1	public repositories
+SAMN03023953	unk2			G01036	BCG	0	SB0120	1	public repositories
+SAMN03023954	unk2			G01037	BCG	0	SB0120	1	public repositories
+SAMN03023952	unk2			G01038	BCG	0	SB0120	1	public repositories
+SAMN03023966	unk2			G01039	BCG	0	SB0120	1	public repositories
+SAMN03023960	unk2			G01040	BCG	0	SB0120	1	public repositories
+SAMN03023957	unk2			G01041	BCG	0	SB0120	1	public repositories
+SRS897671	unk2			G01551	BCG	0	SB0120	1	public repositories
+ERS2573046	unk2	Switzerland	Switzerland	G02545	Human	0	SB0120	1	public repositories
+SRR5486087	unk2	Spain		G36378	bos taurus	1	SB0120	1	public repositories
+SRR5486088	unk2	Spain		G36379	bos taurus	1	SB0120	1	public repositories
+SRR5486089	unk2	Spain		G36380	bos taurus	1	SB0828	1	public repositories
+SRR5486090	unk2	Spain		G36381	bos taurus	1	SB0828	1	public repositories
+SRR5486091	unk2	Spain		G36382	bos taurus	1	SB0828	1	public repositories
+SRR5486092	unk2	Spain		G36383	bos taurus	1	SB0828	1	public repositories
+SRR5486093	unk2	Spain		G36384	bos taurus	1	SB0828	1	public repositories
+SRR5486073	unk2	Eritrea		G36385	bos taurus	1	SB0134	1	public repositories
+SRR5486074	unk2	Eritrea		G36386	bos taurus	1	SB0120	1	public repositories
+SRR5486075	unk2	Eritrea		G36387	bos taurus	1	SB0134	1	public repositories
+SRR5486076	unk2	Eritrea		G36388	bos taurus	1	SB0134	1	public repositories
+SRR5486077	unk2	Eritrea		G36389	bos taurus	1	SB0120	1	public repositories
+SRR5486078	unk2	Eritrea		G36390	bos taurus	1	SB0120	1	public repositories
+SRR5486079	unk2	Eritrea		G36391	bos taurus	1	SB0120	1	public repositories
+SRR5486080	unk2	Eritrea		G36392	bos taurus	1	SB0948	1	public repositories
+SRR5486081	unk2	Eritrea		G36393	bos taurus	1	SB0134	1	public repositories
+SRR5486082	unk2	Eritrea		G36394	bos taurus	1	SB0120	1	public repositories
+SRR5486083	unk2	Eritrea		G36395	bos taurus	1	SB0120	1	public repositories
+SRR5486084	unk2	Eritrea		G36396	bos taurus	1	SB0120	1	public repositories
+SRR5486085	unk2	Eritrea		G36397	bos taurus	1	SB0120	1	public repositories
+SRR5486086	unk2	Eritrea		G36398	bos taurus	1	SB0120	1	public repositories
+SRR5486071	unk2	Ethiopia		G36399	bos taurus	1	SB1517	1	public repositories
+SRR5486072	unk2	Ethiopia		G36400	bos taurus	1	SB1517	1	public repositories
+ERR2815610	unk2			G36801	BCG	0	SB0120	0	public repositories
+ERR2815607	unk2	Germany		G36804	cattle	0	SB0120	0	public repositories
+ERR2815602	unk2			G36809	BCG	0	SB0120	0	public repositories
+ERR2815506	unk2	Germany		G36898	cattle	0	SB0120	0	public repositories
+SRR1792485	unk2	USA		G37692	Cattle	1	SB0120	1	public repositories
+SRR5485729	unk2	USA		G37788	Cattle	1	SB0120	1	public repositories
+SRR4117155;SRR4199188	unk2	France		G38455	wild boar	1	SB0120	1	public repositories
+SRR7131117	unk2	Italy	Italy	G38462	Homo sapiens	0	SB0120	1	public repositories
+SRR7131025	unk2	Morocco	Morocco	G38463	Human	1	SB0120	1	public repositories
+SRR3085259	unk2	Tunisia		G42039	Human	1	SB0120	1	public repositories
+	unk2	Switzerland		G45334	cattle	1	SB0849	0	newly sequenced
+	unk2	Switzerland		G45335	cattle	1	SB0120	0	newly sequenced
+	unk2	Switzerland		G45336	cattle	1	SB0120	0	newly sequenced
+SRR7851302	unk2	France		G47575	cattle	1	SB0134	0	public repositories
+SRR7851309	unk2	France		G47582	cattle	1	SB2680	0	public repositories
+SRR7851312	unk2	France		G47585	cattle	1	SB0120	0	public repositories
+SRR7851313	unk2	France		G47586	cattle	1	SB0948	0	public repositories
+SRR7851316	unk2	France		G47589	cattle	1	SB0120	0	public repositories
+SRR7851317	unk2	France		G47590	cattle	1	SB0040	0	public repositories
+SRR7851321	unk2	France		G47594	cattle	1	SB0120	0	public repositories
+SRR7851322	unk2	France		G47595	cattle	1	SB0120	0	public repositories
+SRR7851323	unk2	France		G47596	cattle	1	SB0120	0	public repositories
+SRR7851325	unk2	France		G47598	cattle	1	SB0927	0	public repositories
+SRR7851326	unk2	France		G47599	cattle	1	SB0120	0	public repositories
+SRR7851329	unk2	France		G47602	cattle	1	SB0134	0	public repositories
+SRR7851330	unk2	France		G47603	cattle	1	SB0120	0	public repositories
+SRR7851331	unk2	France		G47604	cattle	1	SB0120	0	public repositories
+SRR7851334	unk2	France		G47607	cattle	1	New pattern	0	public repositories
+SRR7851342	unk2	France		G47615	cattle	1	SB0120	0	public repositories
+SRR7851344	unk2	France		G47617	cattle	1	SB0120	0	public repositories
+SRR7851345	unk2	France		G47618	cattle	1	SB0120	0	public repositories
+SRR7851346	unk2	France		G47619	cattle	1	SB0120	0	public repositories
+SRR7851347	unk2	France		G47620	cattle	1	SB0822	0	public repositories
+SRR7851348	unk2	France		G47621	cattle	1	New pattern	0	public repositories
+SRR7851350	unk2	France		G47623	cattle	1	SB0120	0	public repositories
+SRR7851352	unk2	France		G47625	cattle	1	SB0162	0	public repositories
+SRR7851353	unk2	France		G47626	cattle	1	SB0120	0	public repositories
+SRR7851355	unk2	France		G47628	cattle	1	SB0828	0	public repositories
+SRR7851356	unk2	France		G47629	cattle	1	SB0120	0	public repositories
+SRR7851359	unk2	France		G47632	cattle	1	New pattern	0	public repositories
+SRR7851360	unk2	France		G47633	cattle	1	SB0120	0	public repositories
+SRR7851365	unk2	France		G47638	cattle	1	SB0120	0	public repositories
+SRR7851367	unk2	France		G47640	cattle	1	SB0120	0	public repositories
+SRR7851368	unk2	France		G47641	cattle	1	New pattern	0	public repositories
+SRR7851369	unk2	France		G47642	cattle	1	SB0120	0	public repositories
+SRR7851371	unk2	France		G47644	cattle	1	New pattern	0	public repositories
+SRR7851374	unk2	France		G47647	cattle	1	SB0120	0	public repositories
+SRR7851375	unk2	France		G47648	cattle	1	SB0120	0	public repositories
+SRR7851377	unk2	France		G47650	cattle	1	New pattern	0	public repositories
+SRR7851381	unk2	France		G47654	cattle	1	SB0120	0	public repositories
+SRR4117155	unk2	France		G47677	cattle	1	SB0120	0	public repositories
+SRR4199188	unk2	France		G47678	cattle	1	SB0120	0	public repositories
+SRR7851302	unk2	France		G49366	cattle	1	SB0134	0	public repositories
+SRR10303300	unk2	Kazakhstan		G59919	Human	1	SB0120	0	public repositories
+SRR10379919	unk2	Moldova		G59967	Human	1	SB0120	0	public repositories
+SRR10430327	unk2	Kazakhstan		G60801	Human	1	SB0120	0	public repositories
+	unk2	Turkey		G66326	Human	1	SB0120	0	newly sequenced
+ERR4769564	unk2	Ethiopia		G66536	update	0	SB0134	0	public repositories
+ERR4769563	unk2	Ethiopia		G66537	update	0	SB0134	0	public repositories
+ERR4769562	unk2	Ethiopia		G66538	update	0	SB0134	0	public repositories
+ERR4772233	unk2	Ethiopia		G66546	update	0	SB0134	0	public repositories
+ERR4772230	unk2	Ethiopia		G66711	update	1	SB0134	0	public repositories
+ERR4772226	unk2	Ethiopia		G66715	update	1	SB0134	0	public repositories
+ERR4772225	unk2	Ethiopia		G66716	update	1	SB0134	0	public repositories
+ERR4772219	unk2	Ethiopia		G66722	update	1	SB0134	0	public repositories
+ERR4772218	unk2	Ethiopia		G66723	update	1	SB0134	0	public repositories
+ERR4772212	unk2	Ethiopia		G66729	update	1	SB0134	0	public repositories
+ERR4772211	unk2	Ethiopia		G66730	update	1	SB0134	0	public repositories
+ERR4772210	unk2	Ethiopia		G66731	update	1	SB0134	0	public repositories
+ERR4772206	unk2	Ethiopia		G66734	update	1	SB0134	0	public repositories
+ERR4772205	unk2	Ethiopia		G66735	update	1	SB0134	0	public repositories
+	unk2	Italy		G66752	cattle	1	SB0841	0	previously unpublished
+	unk2	Italy		G66753	cattle	1	SB0120	0	previously unpublished
+ERR229952	unk3	Russia		G04148		0	SB1919	1	public repositories
+ERR551252	unk3	Germany		G13403	Human	0	SB0288	1	public repositories
+ERR2199785	unk3	Germany		G36744		0	SB0120	1	public repositories
+ERR2200072	unk3	Germany		G36745		0	SB0120	1	public repositories
+ERR2517425	unk3	Netherlands		G36751		0	SB0288	1	public repositories
+ERR2815603	unk3	Germany		G36808	cat	0	SB0288	0	public repositories
+ERR2851358	unk3	Lebanon	Lebanon	G42133	Human	1	SB1215	1	public repositories
+	unk3	Turkey		G66308	Human	1	SB0288	0	newly sequenced
+	unk3	Turkey		G66310	Human	1	SB0288	0	newly sequenced
+	unk3	Turkey		G66312	Human	1	SB0288	0	newly sequenced
+	unk3	Turkey		G66314	Human	1	SB2466	0	newly sequenced
+	unk3	Turkey		G66315	Human	1	SB0288	0	newly sequenced
+	unk3	Turkey		G66316	Human	1	New pattern	0	newly sequenced
+	unk3	Turkey		G66317	Human	1	SB0288	0	newly sequenced
+	unk3	Turkey		G66318	Human	1	SB0288	0	newly sequenced
+	unk3	Turkey		G66319	Human	1	SB2509	0	newly sequenced
+	unk3	Turkey		G66322	Human	1	New pattern	0	newly sequenced
+	unk3	Turkey		G66324	Human	1	SB0120	0	newly sequenced
+	unk3	Turkey		G66325	Human	1	SB0120	0	newly sequenced
+	unk3	Turkey		G66327	Human	1	SB0288	0	newly sequenced
+	unk3	Turkey		G66328	Human	1	New pattern	0	newly sequenced
+	unk3	Turkey		G66329	Human	1	New pattern	0	newly sequenced
+ERR550755	unk4	Germany		G13253		0	SB0871	1	public repositories
+ERR551009	unk4	Germany		G13329	Human	0	New pattern	1	public repositories
+ERR551191	unk4	Germany		G13389	Human	0	SB0120	1	public repositories
+ERR551917	unk4	Germany		G13622	Human	0	New pattern	1	public repositories
+ERR2815613	unk4	Germany		G36798	cattle	0	SB0120	0	public repositories
+ERR2815612	unk4	Germany		G36799	cattle	0	SB0120	0	public repositories
+ERR2815536	unk4	Germany		G36872	cattle	0	SB0120	0	public repositories
+ERR2815535	unk4	Germany		G36873	cattle	0	SB0120	0	public repositories
+ERR2815520	unk4	Germany		G36886	cattle	0	SB0120	0	public repositories
+ERR2815519	unk4	Germany		G36887	pig	0	SB0120	0	public repositories
+ERR2815512	unk4	Germany		G36892	pig	0	SB0120	0	public repositories
+ERR2815510	unk4	Germany		G36894	cattle	0	SB0120	0	public repositories
+SRR7851362	unk4	France		G47635	cattle	1	SB0829	0	public repositories
+SRR7851366	unk4	France		G47639	cattle	1	SB0120	0	public repositories
+SRR7851373	unk4	France		G47646	cattle	1	SB0121	0	public repositories
+ERR3445485	unk4	Brazil		G47656	cattle/Buffalo	1	SB0822	0	public repositories
+ERR3445486	unk4	Brazil		G47657	cattle/Buffalo	1	SB0822	0	public repositories
+ERR3445487	unk4	Brazil		G47658	cattle/Buffalo	1	SB0822	0	public repositories
+ERR3445488	unk4	Brazil		G47659	cattle/Buffalo	1	SB0822	0	public repositories
+ERR3445489	unk4	Brazil		G47660	cattle/Buffalo	1	SB0822	0	public repositories
+ERR3445490	unk4	Brazil		G47661	cattle/Buffalo	1	SB0822	0	public repositories
+ERR3445491	unk4	Brazil		G47662	cattle/Buffalo	1	SB0822	0	public repositories
+ERR3445492	unk4	Brazil		G47663	cattle/Buffalo	1	SB0822	0	public repositories
+ERR3445494	unk4	Brazil		G47665	cattle/Buffalo	1	SB0822	0	public repositories
+ERR3445495	unk4	Brazil		G47666	cattle/Buffalo	1	SB0822	0	public repositories
+ERR3445496	unk4	Brazil		G47667	cattle/Buffalo	1	SB0885	0	public repositories
+ERR3445497	unk4	Brazil		G47668	cattle/Buffalo	1	SB0822	0	public repositories
+ERR3445498	unk4	Brazil		G47669	cattle/Buffalo	1	SB0822	0	public repositories
+ERR3445499	unk4	Brazil		G47670	cattle/Buffalo	1	SB0822	0	public repositories
+ERR3445500	unk4	Brazil		G47671	cattle/Buffalo	1	SB0822	0	public repositories
+ERR3906063	unk4	Brazil		G47676	cattle/Buffalo	1	SB0822	0	public repositories
+ERR2512839	unk5	United Kingdom		G36713	Human	0	New pattern	1	public repositories
+SRR8064853	unk5	Zambia		G41509	Bos taurus	1	SB0120	1	public repositories
+SRR8064854	unk5	Zambia		G41510	Bos taurus	1	SB0120	1	public repositories
+SRR8064855	unk5	Zambia		G41511	Bos taurus	1	SB0120	1	public repositories
+SRR8064856	unk5	Zambia		G41512	Bos taurus	1	SB0120	1	public repositories
+SRR8064857	unk5	Zambia		G41513	Bos taurus	1	SB0120	1	public repositories
+SRR8064858	unk5	Zambia		G41514	Bos taurus	1	SB0120	1	public repositories
+SRR8064859	unk5	Zambia		G41515	Bos taurus	1	SB0120	1	public repositories
+SRR8064860	unk5	Zambia		G41516	Bos taurus	1	SB0120	1	public repositories
+SRR1792161	unk6	USA		G37368	Cervid	1	SB1069	1	public repositories
+SRR1792474	unk6	USA		G37681	Cervid	1	SB1069	1	public repositories
+SRR1792479	unk6	USA		G37686	Cervid	1	SB1069	1	public repositories
+SRR1792481	unk6	USA		G37688	Cervid	1	SB1069	1	public repositories
+SRR1792482	unk6	USA		G37689	Cervid	1	SB1069	1	public repositories
+SRR1792488	unk6	USA		G37695	Cervid	1	SB1069	1	public repositories
+SRR1792493	unk6	USA		G37700	Cervid	1	SB1069	1	public repositories
+ERR2512675	unk7	United Kingdom		G36708	Human	0	SB0901	1	public repositories
+SRR6044919	unk7	United Kingdom		G36715	Homo sapiens	0	SB0134	1	public repositories
+ERR2516262	unk7	Belgium		G36742		0	SB0134	1	public repositories
+SRR5196685	unk7	France		G38456	Bovine	1	SB0821	1	public repositories
+SRR7851304	unk7	France		G47577		1	SB0134	0	public repositories
+SRR7851306	unk7	France		G47579		1	SB0825	0	public repositories
+SRR7851307	unk7	France		G47580		1	SB0821	0	public repositories
+SRR7851311	unk7	France		G47584		1	SB0818	0	public repositories
+SRR7851315	unk7	France		G47588		1	SB0089	0	public repositories
+SRR7851324	unk7	France		G47597		1	SB0826	0	public repositories
+SRR7851327	unk7	France		G47600		1	SB0134	0	public repositories
+SRR7851328	unk7	France		G47601		1	SB0840	0	public repositories
+SRR7851333	unk7	France		G47606		1	SB0040	0	public repositories
+SRR7851336	unk7	France		G47609		1	SB0134	0	public repositories
+SRR7851337	unk7	France		G47610		1	SB0885	0	public repositories
+SRR7851338	unk7	France		G47611		1	SB0134	0	public repositories
+SRR7851339	unk7	France		G47612		1	New pattern	0	public repositories
+SRR7851340	unk7	France		G47613		1	SB0928	0	public repositories
+SRR7851354	unk7	France		G47627		1	SB0818	0	public repositories
+SRR7851361	unk7	France		G47634		1	SB0128	0	public repositories
+SRR7851370	unk7	France		G47643		1	SB0823	0	public repositories
+SRR7851372	unk7	France		G47645		1	SB0089	0	public repositories
+SRR7851376	unk7	France		G47649		1	SB0120	0	public repositories
+SRR7851378	unk7	France		G47651		1	SB0824	0	public repositories
+SRR7851379	unk7	France		G47652		1	SB0827	0	public repositories
+SRR5196685	unk7	France		G47679		1	SB0821	0	public repositories
+SRR7851306	unk7	France		G49363		1	SB0825	0	public repositories
+SRR7851304	unk7	France		G49364		1	SB0134	0	public repositories
+ERR4769570	unk7	Mali		G66530		1	SB0991	0	public repositories
+ERR4769569	unk7	Mali		G66531		1	SB0134	0	public repositories
+ERR3458082	unk8	Ethiopia		G00373	Cattle	1	SB1476	1	public repositories
+	unk9	Turkey		G66320	Human	1	SB0989	0	newly sequenced
+	unk9	Turkey		G66321	Human	1	SB0989	0	newly sequenced
+ERR2212113	unk9	Germany		G66737	red deer	1	SB0989	0	public repositories
+ERR2212114	unk9	Germany		G66738	red deer	1	SB0989	0	public repositories
+ERR2212116	unk9	Germany		G66740	red deer	1	SB0989	0	public repositories
+ERR2212117	unk9	Germany		G66741	red deer	1	SB0989	0	public repositories
+ERR2212118	unk9	Germany		G66742	bison	0	SB0989	0	public repositories
+ERR2212119	unk9	Germany		G66743	lynx	0	SB0989	0	public repositories
+ERR2212120	unk9	Germany		G66744	fallow deer	1	SB0989	0	public repositories
+ERR2212121	unk9	Germany		G66745	sika deer	0	SB0989	0	public repositories
+ERR2212122	unk9	Germany		G66746	fallow deer	1	SB0989	0	public repositories
+ERR2212123	unk9	Germany		G66747	fallow deer	1	SB0989	0	public repositories
+ERR2212124	unk9	Germany		G66748	red deer	1	SB0989	0	public repositories
+ERR2212125	unk9	Germany		G66749	lynx	0	SB0989	0	public repositories
+SRR13888760	caprae	Spain	NA	G67120	isolated from Wild boar	NA	NA	0	public repositories
+SRR13888783	caprae	Spain	NA	G67121	isolated from Cattle	NA	NA	0	public repositories
+SRR13888762	caprae	Spain	NA	G67122	isolated from Goat	NA	NA	0	public repositories
+SRR13888792	caprae	Spain	NA	G67123	isolated from Goat	NA	NA	0	public repositories
+SRR13888769	caprae	Spain	NA	G67124	isolated from Goat	NA	NA	0	public repositories
+SRR13888773	caprae	Spain	NA	G67125	isolated from Goat	NA	NA	0	public repositories
+SRR13888784	caprae	Spain	NA	G67126	isolated from Cattle	NA	NA	0	public repositories
+SRR13888788	caprae	Spain	NA	G67127	isolated from Goat	NA	NA	0	public repositories
+SRR13888766	caprae	Spain	NA	G67128	isolated from Goat	NA	NA	0	public repositories
+SRR13888795	caprae	Spain	NA	G67129	isolated from Cattle	NA	NA	0	public repositories
+SRR13888781	caprae	Spain	NA	G67130	isolated from Cattle	NA	NA	0	public repositories
+SRR13888794	caprae	Spain	NA	G67131	isolated from Goat	NA	NA	0	public repositories
+SRR13888789	caprae	Spain	NA	G67132	isolated from Cattle	NA	NA	0	public repositories
+SRR13888753	caprae	Spain	NA	G67133	isolated from Goat	NA	NA	0	public repositories
+SRR13888763	caprae	Spain	NA	G67134	isolated from Goat	NA	NA	0	public repositories
+SRR13888775	caprae	Spain	NA	G67135	isolated from Goat	NA	NA	0	public repositories
+SRR13888757	caprae	Spain	NA	G67136	isolated from Wild boar	NA	NA	0	public repositories
+SRR13888759	caprae	Spain	NA	G67137	isolated from Wild boar	NA	NA	0	public repositories
+SRR13888774	caprae	Spain	NA	G67138	isolated from Cattle	NA	NA	0	public repositories
+SRR13888786	caprae	Spain	NA	G67139	isolated from Cattle	NA	NA	0	public repositories
+SRR13888790	caprae	Spain	NA	G67140	isolated from Cattle	NA	NA	0	public repositories
+SRR13888797	caprae	Spain	NA	G67141	isolated from Cattle	NA	NA	0	public repositories
+SRR13888772	caprae	Spain	NA	G67142	isolated from Goat	NA	NA	0	public repositories
+SRR13888776	caprae	Spain	NA	G67143	isolated from Cattle	NA	NA	0	public repositories
+SRR13888782	caprae	Spain	NA	G67144	isolated from Goat	NA	NA	0	public repositories
+SRR13888764	caprae	Spain	NA	G67145	isolated from Goat	NA	NA	0	public repositories
+SRR13888750	caprae	Spain	NA	G67146	isolated from Cattle	NA	NA	0	public repositories
+SRR13888767	caprae	Spain	NA	G67147	isolated from Wild boar	NA	NA	0	public repositories
+SRR13888765	caprae	Spain	NA	G67148	isolated from Goat	NA	NA	0	public repositories
+SRR13888780	caprae	Spain	NA	G67149	isolated from Cattle	NA	NA	0	public repositories
+SRR13888761	caprae	Spain	NA	G67150	isolated from Wild boar	NA	NA	0	public repositories
+SRR13888770	caprae	Spain	NA	G67151	isolated from Goat	NA	NA	0	public repositories
+SRR13888798	caprae	Spain	NA	G67152	isolated from Cattle	NA	NA	0	public repositories
+SRR13888771	caprae	Spain	NA	G67153	isolated from Goat	NA	NA	0	public repositories
+SRR13888785	caprae	Spain	NA	G67154	isolated from Cattle	NA	NA	0	public repositories
+SRR13888749	caprae	Spain	NA	G67155	isolated from Goat	NA	NA	0	public repositories
+SRR13888758	caprae	Spain	NA	G67156	isolated from Wild boar	NA	NA	0	public repositories
+SRR13888777	caprae	Spain	NA	G67157	isolated from Wild boar	NA	NA	0	public repositories
+SRR13888799	caprae	Spain	NA	G67158	isolated from Cattle	NA	NA	0	public repositories
+SRR13888752	caprae	Spain	NA	G67159	isolated from Cattle	NA	NA	0	public repositories
+SRR13888778	caprae	Spain	NA	G67160	isolated from Cattle	NA	NA	0	public repositories
+SRR13888796	caprae	Spain	NA	G67161	isolated from Cattle	NA	NA	0	public repositories
+SRR13888787	caprae	Spain	NA	G67162	isolated from Goat	NA	NA	0	public repositories
+SRR13888791	caprae	Spain	NA	G67163	isolated from Goat	NA	NA	0	public repositories
+SRR13888755	caprae	Spain	NA	G67164	isolated from Goat	NA	NA	0	public repositories
+SRR13888768	caprae	Spain	NA	G67165	isolated from Wild boar	NA	NA	0	public repositories
+SRR13888756	caprae	Spain	NA	G67166	isolated from Goat	NA	NA	0	public repositories
+SRR13888754	caprae	Spain	NA	G67167	isolated from Cattle	NA	NA	0	public repositories
+SRR13888751	caprae	Spain	NA	G67168	isolated from Goat	NA	NA	0	public repositories
+SRR13888779	caprae	Spain	NA	G67169	isolated from Sheep	NA	NA	0	public repositories
+SRR13888793	caprae	Spain	NA	G67170	isolated from Goat	NA	NA	0	public repositories
