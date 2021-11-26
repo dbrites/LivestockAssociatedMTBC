@@ -384,14 +384,14 @@ table_2$Species3 <-factor(table_2$Species,levels=c("PZAsus-Af2",
 plot <-ggplot(table_2, aes(x = distances, y = Species3)) +
   geom_density_ridges(aes(fill = Species3))
 
-Following reviews a few duplicated sequences were identified withih La1. After removing duplicates genetic distances were re-calculated and plotted. 
+#Following reviews a few duplicated sequences were identified withih La1. After removing duplicates genetic distances were re-calculated and plotted. 
 
 library(ape) 
 alignment738<- read.dna("boviscaprae_738_noduplicates_WGS.fasta_var_editedX.fasta",format="fasta")
 #remove outgroup
 alignment_737<-alignment738[rownames(alignment738) != "G08466",] dist737_pairwisedel<- dist.dna(alignment_737,model="N",variance=F,as.matrix=T,pairwise.deletion =T) 
-hist(dist737_pairwisedel) metadata 
-<-read.csv(file="Table1_corrected.txt",header=T,sep="\t",check.names=FALSE,stringsAsFactors = F) dim(metadata)
+hist(dist737_pairwisedel) 
+metadata <-read.csv(file="Table1_corrected.txt",header=T,sep="\t",check.names=FALSE,stringsAsFactors = F) dim(metadata)
 #[1] 830 13 remove L6
 which(metadata$Sublineage=="L6")
 #[1] 462
@@ -399,32 +399,39 @@ metadata <- metadata[-462,] dim(metadata)
 #[1] 829 12 remove orygis from metadata
 table(metadata$Sublineage) which(metadata$Sublineage=="La3") metadataLa1La2 <-metadata[-which(metadata$Sublineage=="La3"),] dim(metadataLa1La2)
 #[1] 738 13
-af2Gnumbers <-as.character(metadataLa1La2[metadataLa1La2$ClonalComplex_Loiseau2020=="Af2",5]) un2Gnumbers 
-<-as.character(metadataLa1La2[metadataLa1La2$ClonalComplex_Loiseau2020=="unknown2",5]) un3Gnumbers 
-<-as.character(metadataLa1La2[metadataLa1La2$ClonalComplex_Loiseau2020=="unknown3",5]) af1Gnumbers <- as.character(metadataLa1La2[metadataLa1La2$ClonalComplex_Loiseau2020=="Af1",5]) 
-un9Gnumbers <- as.character(metadataLa1La2[metadataLa1La2$ClonalComplex_Loiseau2020=="unknown9",5]) eu2Gnumbers <- 
-as.character(metadataLa1La2[metadataLa1La2$ClonalComplex_Loiseau2020=="Eu2",5]) un4Gnumbers <- as.character(metadataLa1La2[metadataLa1La2$ClonalComplex_Loiseau2020=="unknown4",5]) 
-un5Gnumbers <- as.character(metadataLa1La2[metadataLa1La2$ClonalComplex_Loiseau2020=="unknown5",5]) un7Gnumbers <- 
-as.character(metadataLa1La2[metadataLa1La2$ClonalComplex_Loiseau2020=="unknown7",5]) un6Gnumbers <- 
-as.character(metadataLa1La2[metadataLa1La2$ClonalComplex_Loiseau2020=="unknown6",5]) eu1Gnumbers <- as.character(metadataLa1La2[metadataLa1La2$ClonalComplex_Loiseau2020=="Eu1",5]) 
-pzaGnumbers <- as.character(metadataLa1La2[metadataLa1La2$Sublineage=="La1.1",5]) distPzaAf2 <- dist737_pairwisedel[rownames(dist737_pairwisedel) %in% pzaGnumbers, 
-rownames(dist737_pairwisedel) %in% af2Gnumbers] distPza <- dist737_pairwisedel[rownames(dist737_pairwisedel) %in% pzaGnumbers, rownames(dist737_pairwisedel) %in% pzaGnumbers] 
+af2Gnumbers <-as.character(metadataLa1La2[metadataLa1La2$ClonalComplex_Loiseau2020=="Af2",5]) 
+un2Gnumbers <-as.character(metadataLa1La2[metadataLa1La2$ClonalComplex_Loiseau2020=="unknown2",5]) 
+un3Gnumbers <-as.character(metadataLa1La2[metadataLa1La2$ClonalComplex_Loiseau2020=="unknown3",5]) 
+af1Gnumbers <- as.character(metadataLa1La2[metadataLa1La2$ClonalComplex_Loiseau2020=="Af1",5]) 
+un9Gnumbers <- as.character(metadataLa1La2[metadataLa1La2$ClonalComplex_Loiseau2020=="unknown9",5]) 
+eu2Gnumbers <- as.character(metadataLa1La2[metadataLa1La2$ClonalComplex_Loiseau2020=="Eu2",5]) 
+un4Gnumbers <- as.character(metadataLa1La2[metadataLa1La2$ClonalComplex_Loiseau2020=="unknown4",5]) 
+un5Gnumbers <- as.character(metadataLa1La2[metadataLa1La2$ClonalComplex_Loiseau2020=="unknown5",5]) 
+un7Gnumbers <- as.character(metadataLa1La2[metadataLa1La2$ClonalComplex_Loiseau2020=="unknown7",5]) 
+un6Gnumbers <- as.character(metadataLa1La2[metadataLa1La2$ClonalComplex_Loiseau2020=="unknown6",5]) 
+eu1Gnumbers <- as.character(metadataLa1La2[metadataLa1La2$ClonalComplex_Loiseau2020=="Eu1",5]) 
+pzaGnumbers <- as.character(metadataLa1La2[metadataLa1La2$Sublineage=="La1.1",5]) 
+distPzaAf2 <- dist737_pairwisedel[rownames(dist737_pairwisedel) %in% pzaGnumbers, rownames(dist737_pairwisedel) %in% af2Gnumbers] distPza <- dist737_pairwisedel[rownames(dist737_pairwisedel) %in% pzaGnumbers, rownames(dist737_pairwisedel) %in% pzaGnumbers] 
 distAf2un2<-dist737_pairwisedel[rownames(dist737_pairwisedel) %in% af2Gnumbers, rownames(dist737_pairwisedel) %in% un2Gnumbers] 
 distAf2<-dist737_pairwisedel[rownames(dist737_pairwisedel) %in% af2Gnumbers, rownames(dist737_pairwisedel) %in% af2Gnumbers] 
 distUn2<-dist737_pairwisedel[rownames(dist737_pairwisedel) %in% un2Gnumbers, rownames(dist737_pairwisedel) %in% un2Gnumbers] 
 distAf1un9<-dist737_pairwisedel[rownames(dist737_pairwisedel) %in% af1Gnumbers, rownames(dist737_pairwisedel) %in% un9Gnumbers] 
 distUn3un9<-dist737_pairwisedel[rownames(dist737_pairwisedel) %in% un3Gnumbers, rownames(dist737_pairwisedel) %in% un9Gnumbers] 
-distUn3Af1<-dist737_pairwisedel[rownames(dist737_pairwisedel) %in% un3Gnumbers, rownames(dist737_pairwisedel) %in% af1Gnumbers] distUn3 
-<-dist737_pairwisedel[rownames(dist737_pairwisedel) %in% un3Gnumbers, rownames(dist737_pairwisedel) %in% un3Gnumbers] distAf1<-dist737_pairwisedel[rownames(dist737_pairwisedel) %in% 
-af1Gnumbers, rownames(dist737_pairwisedel) %in% af1Gnumbers] distUn9<-dist737_pairwisedel[rownames(dist737_pairwisedel) %in% un9Gnumbers, rownames(dist737_pairwisedel) %in% 
-un9Gnumbers] distEu2un4<-dist737_pairwisedel[rownames(dist737_pairwisedel) %in% eu2Gnumbers, rownames(dist737_pairwisedel) %in% un4Gnumbers] 
-distUn5Un4<-dist737_pairwisedel[rownames(dist737_pairwisedel) %in% un5Gnumbers, rownames(dist737_pairwisedel) %in% un4Gnumbers] distUn5eu2 
-<-dist737_pairwisedel[rownames(dist737_pairwisedel) %in% un5Gnumbers, rownames(dist737_pairwisedel) %in% eu2Gnumbers] distEu2<-dist737_pairwisedel[rownames(dist737_pairwisedel) %in% 
-eu2Gnumbers, rownames(dist737_pairwisedel) %in% eu2Gnumbers] distUn4<-dist737_pairwisedel[rownames(dist737_pairwisedel) %in% un4Gnumbers, rownames(dist737_pairwisedel) %in% 
-un4Gnumbers] distUn5<-dist737_pairwisedel[rownames(dist737_pairwisedel) %in% un5Gnumbers, rownames(dist737_pairwisedel) %in% un5Gnumbers] distUn7eu1 
-<-dist737_pairwisedel[rownames(dist737_pairwisedel) %in% un7Gnumbers, rownames(dist737_pairwisedel) %in% eu1Gnumbers] distUn7un6 <-dist737_pairwisedel[rownames(dist737_pairwisedel) 
-%in% un7Gnumbers, rownames(dist737_pairwisedel) %in% un6Gnumbers] distUn6eu1 <-dist737_pairwisedel[rownames(dist737_pairwisedel) %in% un6Gnumbers, rownames(dist737_pairwisedel) %in% 
-eu1Gnumbers] distEu1<-dist737_pairwisedel[rownames(dist737_pairwisedel) %in% eu1Gnumbers, rownames(dist737_pairwisedel) %in% eu1Gnumbers] 
+distUn3Af1<-dist737_pairwisedel[rownames(dist737_pairwisedel) %in% un3Gnumbers, rownames(dist737_pairwisedel) %in% af1Gnumbers] 
+distUn3 <-dist737_pairwisedel[rownames(dist737_pairwisedel) %in% un3Gnumbers, rownames(dist737_pairwisedel) %in% un3Gnumbers] 
+distAf1<-dist737_pairwisedel[rownames(dist737_pairwisedel) %in% 
+af1Gnumbers, rownames(dist737_pairwisedel) %in% af1Gnumbers] 
+distUn9<-dist737_pairwisedel[rownames(dist737_pairwisedel) %in% un9Gnumbers, rownames(dist737_pairwisedel) %in% un9Gnumbers] 
+distEu2un4<-dist737_pairwisedel[rownames(dist737_pairwisedel) %in% eu2Gnumbers, rownames(dist737_pairwisedel) %in% un4Gnumbers] 
+distUn5Un4<-dist737_pairwisedel[rownames(dist737_pairwisedel) %in% un5Gnumbers, rownames(dist737_pairwisedel) %in% un4Gnumbers] 
+distUn5eu2 <-dist737_pairwisedel[rownames(dist737_pairwisedel) %in% un5Gnumbers, rownames(dist737_pairwisedel) %in% eu2Gnumbers] 
+distEu2<-dist737_pairwisedel[rownames(dist737_pairwisedel) %in% eu2Gnumbers, rownames(dist737_pairwisedel) %in% eu2Gnumbers] 
+distUn4<-dist737_pairwisedel[rownames(dist737_pairwisedel) %in% un4Gnumbers, rownames(dist737_pairwisedel) %in% un4Gnumbers] 
+distUn5<-dist737_pairwisedel[rownames(dist737_pairwisedel) %in% un5Gnumbers, rownames(dist737_pairwisedel) %in% un5Gnumbers] 
+distUn7eu1 <-dist737_pairwisedel[rownames(dist737_pairwisedel) %in% un7Gnumbers, rownames(dist737_pairwisedel) %in% eu1Gnumbers] 
+distUn7un6 <-dist737_pairwisedel[rownames(dist737_pairwisedel) %in% un7Gnumbers, rownames(dist737_pairwisedel) %in% un6Gnumbers] 
+distUn6eu1 <-dist737_pairwisedel[rownames(dist737_pairwisedel) %in% un6Gnumbers, rownames(dist737_pairwisedel) %in% eu1Gnumbers] 
+distEu1<-dist737_pairwisedel[rownames(dist737_pairwisedel) %in% eu1Gnumbers, rownames(dist737_pairwisedel) %in% eu1Gnumbers] 
 distUn6<-dist737_pairwisedel[rownames(dist737_pairwisedel) %in% un6Gnumbers, rownames(dist737_pairwisedel) %in% un6Gnumbers] 
 distUn7<-dist737_pairwisedel[rownames(dist737_pairwisedel) %in% un7Gnumbers, rownames(dist737_pairwisedel) %in% un7Gnumbers] 
 matrixDistAll=c(distPzaAf2,distPza,distAf2un2,distAf2,distUn2,distAf1un9,distUn3un9,distUn3Af1,distUn3,distAf1,distUn9,distEu2un4,distUn5Un4,distUn5eu2,distEu2,distUn4,distUn5,distUn7eu1,distUn7un6,distUn6eu1,distEu1,distUn6,distUn7) 
@@ -552,3 +559,15 @@ table_2$Species3 <-factor(table_2$Species,levels=c("PZAsus-Af2",
                                                "Unk6",
                                                "Unk7" )) plot <-ggplot(table_2, aes(x = distances, y = Species3)) +
   geom_density_ridges(aes(fill = Species3))
+
+#Axis of the figures also expressed per kb by diving the number os differences by the size of the alignment used to obtained the genetic distances 
+#express the distances in SNP/Kb. The size of the alignment from which snp distances were calculated (alignment_737) was 34308 
+250/34308
+*1000
+[1] 7.28693
+
+500/34308*1000
+[1] 14.57386
+
+750/34308*1000
+[1] 21.86079
