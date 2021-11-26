@@ -114,6 +114,8 @@ zwyer21 = Reference('Zwyer et al. 2021 Open Research Europe')
 comas09  = Reference('PLoS ONE 2009 - Comas (monomorphic)')
 stucki12 = Reference('Stucki et al. PLoS ONE 2012')
 ngabonziza20 = Reference('Ngabonziza et al. Nature communications 2020')
+coscolla21 = Reference('Coscolla et al. Microbial genomics 2021')
+
 
 orygis         = Lineage('La3')
 bovis         = Lineage('La1')
@@ -180,16 +182,11 @@ Test(SNP(genome=ancestor,pos=3920109,base='T'),lineage1,stucki12),
     Test(SNP(genome=ancestor,pos=  14806,base='C'),lineage7,stucki12),
     Test(SNP(genome=ancestor,pos=1663221,base='G'),lineage7,stucki12),
     Test(SNP(genome=ancestor,pos= 497126,base='A'),lineage7,stucki12),
-    Test(SNP(genome=ancestor,pos= 10819,base='T'),lineage9,zwyer21),
-    Test(SNP(genome=ancestor,pos= 1810476,base='A'),lineage9,zwyer21),
-    Test(SNP(genome=ancestor,pos= 24409,base='A'),lineage9,zwyer21),
-    Test(SNP(genome=ancestor,pos= 3626025,base='A'),lineage9,zwyer21),
-    Test(SNP(genome=ancestor,pos= 623728,base='T'),lineage9,zwyer21),
-Test(SNP(genome=ancestor,pos= 17333,base='C'),lineage8,ngabonziza20),
-    Test(SNP(genome=ancestor,pos= 103128,base='G'),lineage8,ngabonziza20),
-    Test(SNP(genome=ancestor,pos= 162637,base='C'),lineage8,ngabonziza20),
-    Test(SNP(genome=ancestor,pos= 2505582,base='T'),lineage8,ngabonziza20),
-    Test(SNP(genome=ancestor,pos= 442577,base='C'),lineage8,ngabonziza20)]
+    Test(SNP(genome=ancestor,pos= 973938,base='A'),lineage9,coscolla21),
+    Test(SNP(genome=ancestor,pos= 3262964,base='T'),lineage9,coscolla21),
+    Test(SNP(genome=ancestor,pos= 1105923,base='C'),lineage9,coscolla21),
+    Test(SNP(genome=ancestor,pos= 3087782,base='T'),lineage9,coscolla21),
+    Test(SNP(genome=ancestor,pos= 3610650,base='T'),lineage9,coscolla21)]
 
 sublineage_SNPs = [Test(SNP(genome=ancestor,pos=118468,base='T'),unk4_unk5_eu2,zwyer21),
 Test(SNP(genome=ancestor,pos=2963597,base='A'),unk4_unk5_eu2,zwyer21),
@@ -211,7 +208,6 @@ Test(SNP(genome=ancestor,pos=438444,base='C'),af1,zwyer21),
 Test(SNP(genome=ancestor,pos=2848135,base='A'),af1,zwyer21),
 Test(SNP(genome=ancestor,pos=2655824,base='C'),af1,zwyer21),
 Test(SNP(genome=ancestor,pos=3072872,base='A'),af1,zwyer21),
-Test(SNP(genome=ancestor,pos=2339255,base='A'),PZA_sus,zwyer21),
 Test(SNP(genome=ancestor,pos=4155799,base='A'),PZA_sus,zwyer21),
 Test(SNP(genome=ancestor,pos=2271555,base='A'),PZA_sus,zwyer21),
 Test(SNP(genome=ancestor,pos=3581187,base='A'),PZA_sus,zwyer21),
@@ -227,11 +223,8 @@ Test(SNP(genome=ancestor,pos=51459,base='C'),unk9,zwyer21),
 Test(SNP(genome=ancestor,pos=3038566,base='A'),unk9,zwyer21),
 Test(SNP(genome=ancestor,pos=1552837,base='T'),unk9,zwyer21)]
 
-subsublineage_SNPs = [Test(SNP(genome=ancestor,pos=25306,base='G'),eu1,zwyer21),
-Test(SNP(genome=ancestor,pos=2890668,base='T'),eu1,zwyer21),
-Test(SNP(genome=ancestor,pos=4030259,base='G'),eu1,zwyer21),
+subsublineage_SNPs = [Test(SNP(genome=ancestor,pos=4030259,base='G'),eu1,zwyer21),
 Test(SNP(genome=ancestor,pos=3347070,base='T'),eu1,zwyer21),
-Test(SNP(genome=ancestor,pos=1534929,base='T'),eu1,zwyer21),
 Test(SNP(genome=ancestor,pos=1765767,base='C'),unk4,zwyer21),
 Test(SNP(genome=ancestor,pos=2807764,base='A'),unk4,zwyer21),
 Test(SNP(genome=ancestor,pos=1401050,base='T'),unk4,zwyer21),
